@@ -1,0 +1,106 @@
+<html>
+<head>
+<title>E-Identity | Registration</title>
+<style>
+h1 {text-align:center;}
+input[type="radio"] {
+    margin-left:10px;
+}
+</style>
+</head>
+    <body>
+        <h1 align=ce>E-Identity Portal Registration </h1>
+        <script src="https://cdn.jsdelivr.net/npm/web3@1.2.8/dist/web3.js"></script>
+		<script src="bundle.js"></script>
+         <fieldset>
+		 <legend>Enter your details </legend>
+         <br>
+		<form>
+		 <table style="margin:10px;">
+		 <tr>
+		 <td>Name of the Person:</td>
+		 <td><input type="text" id ="name" name="name" placeholder="Enter your Name" required="" /></td>
+		 </tr>
+		 <tr>
+		 <td> Date of Birth : </td>
+		 <td><input type="date" id="birthday" name="birthday" required=""/></td>
+		 </tr>
+		 <tr>
+		  <td><label for="gender">Gender:</label>
+		 
+		  <select name="gender" id="gender">
+          <option value="m">Male</option>
+          <option value="f">Female</option>
+          <option value="o">Other</option>
+          </select></td>
+		 <tr>
+		 <td>Contact Number:</td>
+		 <td><input type="number" id="contact_no" name="contact_no" placeholder="Enter your Contact Number" required=""/></td>
+		 </tr>
+		  <tr>
+		 <td>Email:</td>
+		 <td><input type="text" id="email_id" name="email_id" placeholder="Enter your Email" required=""/></td>
+		 </tr>
+		 <tr>
+		 <td><label for="bloodgroup">Blood Group:</label>
+		 
+		  <select name="bloodgroup" id="bloodgroup">
+          <option value="op">O+ve</option>
+          <option value="on">O-ve</option>
+          <option value="ap">A+ve</option>
+          <option value="an">A-ve</option>
+		  <option value="bp">B+ve</option>
+		  <option value="bn">B-ve</option>
+         </select></td>
+       
+		 </tr>
+		 <tr>
+		 <td>City:</td>
+		 <td><input type="text" id ="city" name="city" placeholder="Enter your City" required="" /></td>
+		 </tr>
+		 
+		<td>State:</td>
+		 <td><input type="text" id ="state" name="state" placeholder="Enter your State" required="" /></td>
+		</tr>
+		
+		<tr>
+		 <td><label class="header">Photo:</label></td>
+		 <td> <input id="image" type="file" name="profile_photo" placeholder="Photo" required="" capture></td>
+		 </tr>
+		 
+		
+		 
+		 <tr>
+		 <td><label class="header">Left Thumb:</label></td>
+		 <td> <input id="image1" type="file" name="left_thumb" placeholder="Left Thumb" required="" capture></td>
+		 </tr>
+		 
+		 <tr>
+		 <td><label class="header">Right Thumb:</label></td>
+		 <td> <input id="image2" type="file" name="right_thumb" placeholder="Right Thumb" required="" capture></td>
+		 </tr>
+		 
+		 	 
+		 <tr>
+		 <td><label class="header">Left Eye:</label></td>
+		 <td> <input id="image3" type="file" name="left_eye" placeholder="Left Eye" required="" capture></td>
+		 </tr>
+		 
+		  	 
+		 <tr>
+		 <td><label class="header">Right Eye:</label></td>
+		 <td> <input id="image4" type="file" name="right_eye" placeholder="Right Eye" required="" capture></td>
+		 </tr>
+		 <tr>
+		  <td><input type="button" id="submitBtnIndex" value="Submit"></td>
+		 </tr>
+		
+		 </table>
+		 <h4> Transaction Id: <a href=""><div id="result"></div></a></h4> 
+		 <h4> Amrita ID: <a href=""><div id="result4"></div><a/a></h4>
+		 <a href="verify.html"><b>Verify your Details</b> </a>
+	</form>
+	</fieldset>
+       
+    </body>
+</html>

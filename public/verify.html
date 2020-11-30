@@ -1,0 +1,83 @@
+<html>
+<head>
+<title>E-Identity | Verification</title>
+<style>
+h1 {text-align:center;}
+input[type="radio"] {
+    margin-left:10px;
+}
+</style>
+</head>
+    <body>
+        <h1 align=ce>Verification Details </h1>
+        <script src="https://cdn.jsdelivr.net/npm/web3@1.2.8/dist/web3.js"></script>
+		<script src="bundle.js"></script>
+		
+         <fieldset>
+		 <a href="index.html"><b>Back</b> </a>
+		 <legend>Verify your Details </legend>
+         <br>
+		 <form>
+		 <table style="margin:10px;">
+		 <tr>
+			<td>SSN ID:</td>
+			<td><input type="text" id="ssn_id" name="ssn_id" placeholder="Enter SSN ID"></td>
+		  </tr>
+		  <tr><td><input type="button" id="getDetailsBtn" value="Get Details"></td></tr>
+            <tr>
+			<td>Name:</td>
+			<td><div id="get_name"></div></td>
+		  </tr>
+		  <tr>
+			<td>Date of Birth:</td>
+			<td><div id="get_dob"></div></td>
+		  </tr>
+		  <tr>
+			<td>Gender:</td>
+			<td><div id="get_gender"></div></td>
+		  </tr>
+		  <tr>
+			<td>Contact No:</td>
+			<td><div id="get_number"></div></td>
+		  </tr>
+		  <tr>
+			<td>Email:</td>
+			<td><div id="get_email"></div></td>
+		  </tr>
+		  <tr>
+			<td>Blood Group:</td>
+			<td><div id="get_bloodgroup"></div></td>
+		  </tr>
+		  <tr>
+			<td>City:</td>
+			<td><div id="get_city"></div></td>
+		  </tr>
+		  <tr>
+			<td>State:</td>
+			<td><div id="get_state"></div></td>
+		  </tr>
+		  <tr>
+			<td>Photo:</td>
+			<td><img style="width: 300px;" id="get_photo"></div></td>
+		  </tr>
+		  <tr>
+			<td>Left Thumb:</td>
+			<td><img style="width: 300px;" id="get_leftThumb" /></td>
+		  </tr>
+		  <tr>
+			<td>Right Thumb:</td>
+			<td><img style="width: 300px;" id="get_rightThumb" /></td>
+		  </tr>
+		  <tr>
+			<td>Left eye:</td>
+			<td><img style="width: 300px;" id="get_leftEye" /></td>
+		  </tr>
+		  <tr>
+			<td>Right Eye:</td>
+			<td><img style="width: 300px;" id="get_rightEye" /></td>
+		  </tr>
+		</form>
+	</fieldset>
+       
+    </body>
+</html>
