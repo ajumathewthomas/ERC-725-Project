@@ -1,0 +1,2690 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../../node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c9a1f03d6ba0fe3c871eb0dd81622e78fbb61ade70878b34d48a341a690c59e9",
+        "signature": "c9a1f03d6ba0fe3c871eb0dd81622e78fbb61ade70878b34d48a341a690c59e9",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "signature": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "signature": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "signature": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "38130cdd16bd2318b9362f9d60dd9670f7e38708bb6131cf11fc78a41b2c34a0",
+        "signature": "38130cdd16bd2318b9362f9d60dd9670f7e38708bb6131cf11fc78a41b2c34a0",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "fb0c09b697dc42afa84d1587e3c994a2f554d2a45635e4f0618768d16a86b69a",
+        "signature": "fb0c09b697dc42afa84d1587e3c994a2f554d2a45635e4f0618768d16a86b69a",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "signature": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "signature": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "signature": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "signature": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "signature": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "signature": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "signature": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "signature": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b5e4c2d67aa844ed503b29cd4ca2ede1a229ac7fe874613b2c996fa9c581a25f",
+        "signature": "b5e4c2d67aa844ed503b29cd4ca2ede1a229ac7fe874613b2c996fa9c581a25f",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "signature": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "signature": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "signature": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
+        "version": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "signature": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "signature": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "signature": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "signature": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "signature": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2020.bigint.d.ts": {
+        "version": "7b5a10e3c897fabece5a51aa85b4111727d7adb53c2734b5d37230ff96802a09",
+        "signature": "7b5a10e3c897fabece5a51aa85b4111727d7adb53c2734b5d37230ff96802a09",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "89bf2b7a601b73ea4311eda9c41f86a58994fec1bee3b87c4a14d68d9adcdcbd",
+        "signature": "89bf2b7a601b73ea4311eda9c41f86a58994fec1bee3b87c4a14d68d9adcdcbd",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/typescript/lib/lib.es2018.full.d.ts": {
+        "version": "32b8443be144970b813b9dd72dcdba2059fbdfdae4d3a50c4d8a158ed6057bbe",
+        "signature": "32b8443be144970b813b9dd72dcdba2059fbdfdae4d3a50c4d8a158ed6057bbe",
+        "affectsGlobalScope": false
+      },
+      "../package.json": {
+        "version": "00648e554433e2d1f3c7eadc7b60588d5856a6b50dbe37ce0e7e0927c03acff0",
+        "affectsGlobalScope": true
+      },
+      "../../ipfs-core/dist/src/errors.d.ts": {
+        "version": "bba33139c56efde5bd0040fbdc8153e86f279e94e3b152a04af3aa59b6a83d9e",
+        "signature": "bba33139c56efde5bd0040fbdc8153e86f279e94e3b152a04af3aa59b6a83d9e",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/multiaddr/src/index.d.ts": {
+        "version": "a3401f8da5c76c7f7a16b8734395d6f8a01b95b8b417e8512839a77e170f3260",
+        "signature": "a3401f8da5c76c7f7a16b8734395d6f8a01b95b8b417e8512839a77e170f3260",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/cids/src/index.d.ts": {
+        "version": "68f4cd27f1a63b5c503e790334868fb20a3f70c7819f3946e3083747b84a794e",
+        "signature": "68f4cd27f1a63b5c503e790334868fb20a3f70c7819f3946e3083747b84a794e",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core-utils/dist/src/files/format-mtime.d.ts": {
+        "version": "b22921feb397925a690e0d05ef23a7f6f6a7454f2350d113bd02e658d11c1f29",
+        "signature": "b22921feb397925a690e0d05ef23a7f6f6a7454f2350d113bd02e658d11c1f29",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core-utils/dist/src/files/normalise-input/normalise-input.d.ts": {
+        "version": "74d5592283e842df0c44e37ee054d6233fd2bf0cb0ff732e9b8b7fd7698145ef",
+        "signature": "74d5592283e842df0c44e37ee054d6233fd2bf0cb0ff732e9b8b7fd7698145ef",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/api-manager.d.ts": {
+        "version": "5e0ffc1a823e6104238785be52a78f7f0cc379dd02b67530fdde4475c28c0d51",
+        "signature": "5e0ffc1a823e6104238785be52a78f7f0cc379dd02b67530fdde4475c28c0d51",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/bootstrap/utils.d.ts": {
+        "version": "a7cd97e47c724a74f0e4da7d6723c11a62a93d62d658ddba76a13517970db669",
+        "signature": "a7cd97e47c724a74f0e4da7d6723c11a62a93d62d658ddba76a13517970db669",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/cat.d.ts": {
+        "version": "2c65226e98f488edbaa832542a46563f33a854d751f1683d649be7f80c228038",
+        "signature": "2c65226e98f488edbaa832542a46563f33a854d751f1683d649be7f80c228038",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/config.d.ts": {
+        "version": "797cdfbd533c2435ce03a458c90ee068eb4a42670174f843bada90c63da61db0",
+        "signature": "797cdfbd533c2435ce03a458c90ee068eb4a42670174f843bada90c63da61db0",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/dns.d.ts": {
+        "version": "34320e2fb0909cee6d72bb72064da7455fc811b240844041f41f1d034ace7103",
+        "signature": "34320e2fb0909cee6d72bb72064da7455fc811b240844041f41f1d034ace7103",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/files/stat.d.ts": {
+        "version": "8f7dcf8b02b2b960c585705dfa181a34846d5c73e740408bab8d64ed7929559c",
+        "signature": "8f7dcf8b02b2b960c585705dfa181a34846d5c73e740408bab8d64ed7929559c",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/files/chmod.d.ts": {
+        "version": "8ad898b9ae0547f8c027adc5f85466c1df5b0993624ae1f399994ded7ba9399e",
+        "signature": "8ad898b9ae0547f8c027adc5f85466c1df5b0993624ae1f399994ded7ba9399e",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/files/cp.d.ts": {
+        "version": "563a913d9a52ddcb175221d29bca3b88e7630c0cdb86159b1f5df11c006ef054",
+        "signature": "563a913d9a52ddcb175221d29bca3b88e7630c0cdb86159b1f5df11c006ef054",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/files/flush.d.ts": {
+        "version": "29d956640a1b73b9d89b70f4a34d969b679e6dfc5c59f070abe4063ee9137c48",
+        "signature": "29d956640a1b73b9d89b70f4a34d969b679e6dfc5c59f070abe4063ee9137c48",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/files/mkdir.d.ts": {
+        "version": "d3982afb3271230b9e696a7198f3ed4780e1ad951df1be08a378eaa3df4655ea",
+        "signature": "d3982afb3271230b9e696a7198f3ed4780e1ad951df1be08a378eaa3df4655ea",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/files/mv.d.ts": {
+        "version": "e42b6bf7e86b74ffa17eb8d30124b275e289ec4d7d3931d20952f638f8e85236",
+        "signature": "e42b6bf7e86b74ffa17eb8d30124b275e289ec4d7d3931d20952f638f8e85236",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/files/rm.d.ts": {
+        "version": "1f7468b52b4ace2f0b2c3651f101322f3fd0687da002d361459b8c65c948a984",
+        "signature": "1f7468b52b4ace2f0b2c3651f101322f3fd0687da002d361459b8c65c948a984",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/files/touch.d.ts": {
+        "version": "30a6bb861d04a5d5968ee01c5e8d3849e6c3ac2f68bd8b9b1ffe7702f8b5ed4d",
+        "signature": "30a6bb861d04a5d5968ee01c5e8d3849e6c3ac2f68bd8b9b1ffe7702f8b5ed4d",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/files/write.d.ts": {
+        "version": "2917c3cdbb24a0eb8d135595df79928cfd1b22ba321a675434f7e3058fa7ce5b",
+        "signature": "2917c3cdbb24a0eb8d135595df79928cfd1b22ba321a675434f7e3058fa7ce5b",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/files/read.d.ts": {
+        "version": "1771b14fc263cd48ef772cf4cc8f3974b08d7901701fbc3ee72348eeb28298f2",
+        "signature": "1771b14fc263cd48ef772cf4cc8f3974b08d7901701fbc3ee72348eeb28298f2",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/files/ls.d.ts": {
+        "version": "ae0ca595705ce4f1fb49dcc892c555bc6d75a99b1034b93cd9d70b99c5d0350b",
+        "signature": "ae0ca595705ce4f1fb49dcc892c555bc6d75a99b1034b93cd9d70b99c5d0350b",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/files/index.d.ts": {
+        "version": "26509475c6f01123f2704e079aeae2d37fb7c41d928b07a68001bd16cf7f143d",
+        "signature": "26509475c6f01123f2704e079aeae2d37fb7c41d928b07a68001bd16cf7f143d",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/get.d.ts": {
+        "version": "da78f92ac9e8229face0f481359985add097c72121ef80b9df5e7cd6567cd4a4",
+        "signature": "da78f92ac9e8229face0f481359985add097c72121ef80b9df5e7cd6567cd4a4",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/globals.d.ts": {
+        "version": "1332704d6761c94b85753fc3cadc36109f53e5d92fad137ac3de18083febedf3",
+        "signature": "1332704d6761c94b85753fc3cadc36109f53e5d92fad137ac3de18083febedf3",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/@types/node/async_hooks.d.ts": {
+        "version": "c438b413e94ff76dfa20ae005f33a1c84f2480d1d66e0fd687501020d0de9b50",
+        "signature": "c438b413e94ff76dfa20ae005f33a1c84f2480d1d66e0fd687501020d0de9b50",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/buffer.d.ts": {
+        "version": "bc6a78961535181265845bf9b9e8a147ffd0ca275097ceb670a9b92afa825152",
+        "signature": "bc6a78961535181265845bf9b9e8a147ffd0ca275097ceb670a9b92afa825152",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/child_process.d.ts": {
+        "version": "987249e7b75023387c5fd9dc2f959ee777cb8989b7900f5a9eb4a67d290f2cba",
+        "signature": "987249e7b75023387c5fd9dc2f959ee777cb8989b7900f5a9eb4a67d290f2cba",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/cluster.d.ts": {
+        "version": "123ec69e4b3a686eb49afd94ebe3292a5c84a867ecbcb6bb84bdd720a12af803",
+        "signature": "123ec69e4b3a686eb49afd94ebe3292a5c84a867ecbcb6bb84bdd720a12af803",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/console.d.ts": {
+        "version": "eb5197aade83cb0e360ac407289c53a8009e8fdae7939892a0240d30444496b6",
+        "signature": "eb5197aade83cb0e360ac407289c53a8009e8fdae7939892a0240d30444496b6",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/@types/node/constants.d.ts": {
+        "version": "90c85ddbb8de82cd19198bda062065fc51b7407c0f206f2e399e65a52e979720",
+        "signature": "90c85ddbb8de82cd19198bda062065fc51b7407c0f206f2e399e65a52e979720",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/crypto.d.ts": {
+        "version": "c5ecc351d5eaa36dc682b4c398b57a9d37c108857b71a09464a06e0185831ac2",
+        "signature": "c5ecc351d5eaa36dc682b4c398b57a9d37c108857b71a09464a06e0185831ac2",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/dgram.d.ts": {
+        "version": "7e050b767ed10c7ffbc01f314defbf420bf0b5d54ce666e1c87507c035dfc191",
+        "signature": "7e050b767ed10c7ffbc01f314defbf420bf0b5d54ce666e1c87507c035dfc191",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/dns.d.ts": {
+        "version": "7db7569fbb3e2b01ba8751c761cdd3f0debd104170d5665b7dc20a11630df3a9",
+        "signature": "7db7569fbb3e2b01ba8751c761cdd3f0debd104170d5665b7dc20a11630df3a9",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/domain.d.ts": {
+        "version": "cde4d7f6274468180fa39847b183aec22626e8212ff885d535c53f4cd7c225fd",
+        "signature": "cde4d7f6274468180fa39847b183aec22626e8212ff885d535c53f4cd7c225fd",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/@types/node/events.d.ts": {
+        "version": "365e8358843a23944be84b810b1f774ea0223adfccc085f30fd7f4c13dc8a09f",
+        "signature": "365e8358843a23944be84b810b1f774ea0223adfccc085f30fd7f4c13dc8a09f",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/@types/node/fs.d.ts": {
+        "version": "f87f95c015900102a5c0edcdebb17596de1382510e6cc17ab79f375d3505bb12",
+        "signature": "f87f95c015900102a5c0edcdebb17596de1382510e6cc17ab79f375d3505bb12",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/fs/promises.d.ts": {
+        "version": "05b5679a897598ebe556ee93415b3af1f456e674ea82e4d7afcd716bfe43aa98",
+        "signature": "05b5679a897598ebe556ee93415b3af1f456e674ea82e4d7afcd716bfe43aa98",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/http.d.ts": {
+        "version": "35fe02b2c10616cc7ac3db9c15778df7ed9c99276889efdd9be31f342841cfcd",
+        "signature": "35fe02b2c10616cc7ac3db9c15778df7ed9c99276889efdd9be31f342841cfcd",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/http2.d.ts": {
+        "version": "1c3fe66943f587685aa4a42f664f794655da1767401d2f85910177dac78aa45d",
+        "signature": "1c3fe66943f587685aa4a42f664f794655da1767401d2f85910177dac78aa45d",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/https.d.ts": {
+        "version": "c969bf4c7cdfe4d5dd28aa09432f99d09ad1d8d8b839959646579521d0467d1a",
+        "signature": "c969bf4c7cdfe4d5dd28aa09432f99d09ad1d8d8b839959646579521d0467d1a",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/inspector.d.ts": {
+        "version": "6c3857edaeeaaf43812f527830ebeece9266b6e8eb5271ab6d2f0008306c9947",
+        "signature": "6c3857edaeeaaf43812f527830ebeece9266b6e8eb5271ab6d2f0008306c9947",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/module.d.ts": {
+        "version": "bc6a77e750f4d34584e46b1405b771fb69a224197dd6bafe5b0392a29a70b665",
+        "signature": "bc6a77e750f4d34584e46b1405b771fb69a224197dd6bafe5b0392a29a70b665",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/net.d.ts": {
+        "version": "8de97668870cfb20fc9d355d2ef379e897bdd8a98c889c7d8a6de40ee408ad52",
+        "signature": "8de97668870cfb20fc9d355d2ef379e897bdd8a98c889c7d8a6de40ee408ad52",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/os.d.ts": {
+        "version": "ed4ae81196cccc10f297d228bca8d02e31058e6d723a3c5bc4be5fb3c61c6a34",
+        "signature": "ed4ae81196cccc10f297d228bca8d02e31058e6d723a3c5bc4be5fb3c61c6a34",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/path.d.ts": {
+        "version": "84044697c8b3e08ef24e4b32cfe6440143d07e469a5e34bda0635276d32d9f35",
+        "signature": "84044697c8b3e08ef24e4b32cfe6440143d07e469a5e34bda0635276d32d9f35",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/perf_hooks.d.ts": {
+        "version": "4982d94cb6427263c8839d8d6324a8bbe129e931deb61a7380f8fad17ba2cfc0",
+        "signature": "4982d94cb6427263c8839d8d6324a8bbe129e931deb61a7380f8fad17ba2cfc0",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/process.d.ts": {
+        "version": "ae4bc1dd4d9de7bbea6ce419db45af82a81358e6014c9e1235b5d252e06f8ab8",
+        "signature": "ae4bc1dd4d9de7bbea6ce419db45af82a81358e6014c9e1235b5d252e06f8ab8",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/@types/node/punycode.d.ts": {
+        "version": "3f6a1fd73c9dc3bd7f4b79bc075297ca6527904df69b0f2c2c94e4c4c7d9a32c",
+        "signature": "3f6a1fd73c9dc3bd7f4b79bc075297ca6527904df69b0f2c2c94e4c4c7d9a32c",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/querystring.d.ts": {
+        "version": "884560fda6c3868f925f022adc3a1289fe6507bbb45adb10fa1bbcc73a941bb0",
+        "signature": "884560fda6c3868f925f022adc3a1289fe6507bbb45adb10fa1bbcc73a941bb0",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/readline.d.ts": {
+        "version": "6b2bb67b0942bcfce93e1d6fad5f70afd54940a2b13df7f311201fba54b2cbe9",
+        "signature": "6b2bb67b0942bcfce93e1d6fad5f70afd54940a2b13df7f311201fba54b2cbe9",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/repl.d.ts": {
+        "version": "acbed967a379b3e9f73237ba9473f8b337eeea14b7dc64d445430b5d695751da",
+        "signature": "acbed967a379b3e9f73237ba9473f8b337eeea14b7dc64d445430b5d695751da",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/stream.d.ts": {
+        "version": "272a46cc8f494677af587d17939e61e7db2b1925633e4da0c186ba17f6732521",
+        "signature": "272a46cc8f494677af587d17939e61e7db2b1925633e4da0c186ba17f6732521",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/string_decoder.d.ts": {
+        "version": "d67e08745494b000da9410c1ae2fdc9965fc6d593fe0f381a47491f75417d457",
+        "signature": "d67e08745494b000da9410c1ae2fdc9965fc6d593fe0f381a47491f75417d457",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/timers.d.ts": {
+        "version": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9",
+        "signature": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/tls.d.ts": {
+        "version": "a0545ca910ec6b318b8e1d63813c980c3be44824cf217b6477a56fbe9c7927d5",
+        "signature": "a0545ca910ec6b318b8e1d63813c980c3be44824cf217b6477a56fbe9c7927d5",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/trace_events.d.ts": {
+        "version": "a77fdb357c78b70142b2fdbbfb72958d69e8f765fd2a3c69946c1018e89d4638",
+        "signature": "a77fdb357c78b70142b2fdbbfb72958d69e8f765fd2a3c69946c1018e89d4638",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/tty.d.ts": {
+        "version": "3c2ac350c3baa61fd2b1925844109e098f4376d0768a4643abc82754fd752748",
+        "signature": "3c2ac350c3baa61fd2b1925844109e098f4376d0768a4643abc82754fd752748",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/url.d.ts": {
+        "version": "80ffc1786a5dab91b4aa59a72720f02f25df8b7c76b593e04d5e381aec284ccb",
+        "signature": "80ffc1786a5dab91b4aa59a72720f02f25df8b7c76b593e04d5e381aec284ccb",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/util.d.ts": {
+        "version": "5ef157fbb39494a581bd24f21b60488fe248d452c479738b5e41b48720ea69b8",
+        "signature": "5ef157fbb39494a581bd24f21b60488fe248d452c479738b5e41b48720ea69b8",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/v8.d.ts": {
+        "version": "289be113bad7ee27ee7fa5b1e373c964c9789a5e9ed7db5ddcb631371120b953",
+        "signature": "289be113bad7ee27ee7fa5b1e373c964c9789a5e9ed7db5ddcb631371120b953",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/vm.d.ts": {
+        "version": "baf0b82ffc5d2616f44a6fb1f81e8d798545bebf0c30f5d8b003a1dba1acfb3f",
+        "signature": "baf0b82ffc5d2616f44a6fb1f81e8d798545bebf0c30f5d8b003a1dba1acfb3f",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/worker_threads.d.ts": {
+        "version": "c6a5b34f1e725019445754f1e733585f113e0dced75f137bd3c4af5853d3f6ab",
+        "signature": "c6a5b34f1e725019445754f1e733585f113e0dced75f137bd3c4af5853d3f6ab",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/zlib.d.ts": {
+        "version": "15fbe50526244954eb2f933546bca6cdcf0db16c9428d099b3b386c1db5799ab",
+        "signature": "15fbe50526244954eb2f933546bca6cdcf0db16c9428d099b3b386c1db5799ab",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/ts3.4/base.d.ts": {
+        "version": "d44028ae0127eb3e9fcfa5f55a8b81d64775ce15aca1020fe25c511bbb055834",
+        "signature": "d44028ae0127eb3e9fcfa5f55a8b81d64775ce15aca1020fe25c511bbb055834",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/globals.global.d.ts": {
+        "version": "2708349d5a11a5c2e5f3a0765259ebe7ee00cdcc8161cb9990cb4910328442a1",
+        "signature": "2708349d5a11a5c2e5f3a0765259ebe7ee00cdcc8161cb9990cb4910328442a1",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/@types/node/wasi.d.ts": {
+        "version": "4e0a4d84b15692ea8669fe4f3d05a4f204567906b1347da7a58b75f45bae48d3",
+        "signature": "4e0a4d84b15692ea8669fe4f3d05a4f204567906b1347da7a58b75f45bae48d3",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/ts3.6/base.d.ts": {
+        "version": "ad1ae5ae98eceb9af99061e83e867b9897d267aebc8f3b938c9424deabadf4bb",
+        "signature": "ad1ae5ae98eceb9af99061e83e867b9897d267aebc8f3b938c9424deabadf4bb",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/assert.d.ts": {
+        "version": "00a0faaea871db3288a11ce92bbed248ea2473a5bfd174d222011cde800ce397",
+        "signature": "00a0faaea871db3288a11ce92bbed248ea2473a5bfd174d222011cde800ce397",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/base.d.ts": {
+        "version": "e61a21e9418f279bc480394a94d1581b2dee73747adcbdef999b6737e34d721b",
+        "signature": "e61a21e9418f279bc480394a94d1581b2dee73747adcbdef999b6737e34d721b",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/node/index.d.ts": {
+        "version": "5825520e2099309182c6e2a2b3061b060d42a098c58f67d1754880a7e2cce99a",
+        "signature": "5825520e2099309182c6e2a2b3061b060d42a098c58f67d1754880a7e2cce99a",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/libp2p-crypto/src/index.d.ts": {
+        "version": "b674c94d3a380539f2889cd98babc444efe82f0221c0538ad7e61a1bb4a19038",
+        "signature": "b674c94d3a380539f2889cd98babc444efe82f0221c0538ad7e61a1bb4a19038",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/peer-id/src/index.d.ts": {
+        "version": "db363aab1e392685403291b395d4b942c69d79ef51fce3d3f27e92287cd33ba7",
+        "signature": "db363aab1e392685403291b395d4b942c69d79ef51fce3d3f27e92287cd33ba7",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/id.d.ts": {
+        "version": "6aa53169ed09733965451c032b59832f917f1e422d6b3b853987fb3f92c4882f",
+        "signature": "6aa53169ed09733965451c032b59832f917f1e422d6b3b853987fb3f92c4882f",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/ls.d.ts": {
+        "version": "7b65d6196821e6a490e7b2e2a72f1be4b5d189d35945542001c45f915e2840dd",
+        "signature": "7b65d6196821e6a490e7b2e2a72f1be4b5d189d35945542001c45f915e2840dd",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/repo/gc.d.ts": {
+        "version": "ffe6e588c6dfe7f978f767fa9cc24f6e47b2db948e9f616bad6a317032061241",
+        "signature": "ffe6e588c6dfe7f978f767fa9cc24f6e47b2db948e9f616bad6a317032061241",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/resolve.d.ts": {
+        "version": "310671b6cfefb0d2d23e0c514f04dfcbb010cf3086ef2f9db693ca32758dfb53",
+        "signature": "310671b6cfefb0d2d23e0c514f04dfcbb010cf3086ef2f9db693ca32758dfb53",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/bignumber.js/bignumber.d.ts": {
+        "version": "1d7d9e42cb2cc36dfc7ce35755ce67d5ff0f4a2ef72d3019f4c461bfd22123da",
+        "signature": "1d7d9e42cb2cc36dfc7ce35755ce67d5ff0f4a2ef72d3019f4c461bfd22123da",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/bitswap/stat.d.ts": {
+        "version": "f87d0441f0b32c0304155db3db941f2274525b97533ea71c4f3b4f11a11c8de7",
+        "signature": "f87d0441f0b32c0304155db3db941f2274525b97533ea71c4f3b4f11a11c8de7",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/dht.d.ts": {
+        "version": "77eda5deb82b14a49f160f4042d0c3503c5789c91697dcd487b74ef49d4c0296",
+        "signature": "77eda5deb82b14a49f160f4042d0c3503c5789c91697dcd487b74ef49d4c0296",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/ipns/publisher.d.ts": {
+        "version": "5d81f40e7d874fd00b3bd8205fe03d15c1b3a17f500214ea7ae58ef800eac108",
+        "signature": "5d81f40e7d874fd00b3bd8205fe03d15c1b3a17f500214ea7ae58ef800eac108",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/ipns/republisher.d.ts": {
+        "version": "203f5b3af0386cddd9cd6ac0b341a0cfada4ef313df304a12580ce8db1d02820",
+        "signature": "203f5b3af0386cddd9cd6ac0b341a0cfada4ef313df304a12580ce8db1d02820",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/ipns/resolver.d.ts": {
+        "version": "ea399d0ad15b1fce2f982191e8615509fbea8106d6ede13f5266b55e0a36dfae",
+        "signature": "ea399d0ad15b1fce2f982191e8615509fbea8106d6ede13f5266b55e0a36dfae",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/utils/tlru.d.ts": {
+        "version": "80738d185c9d8a05dedbf5d68afa8f9cc07ca601edffd654ec3a0576dd2a9f49",
+        "signature": "80738d185c9d8a05dedbf5d68afa8f9cc07ca601edffd654ec3a0576dd2a9f49",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/ipns/index.d.ts": {
+        "version": "29ff63068a206df43de25e73ea9dde2a737ee515540b5d34b7eb7f7d4b499e75",
+        "signature": "29ff63068a206df43de25e73ea9dde2a737ee515540b5d34b7eb7f7d4b499e75",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/name/publish.d.ts": {
+        "version": "db8aa110642b36edd45c61f8a452611a59b4accfdae32a15e90c13efefdbd945",
+        "signature": "db8aa110642b36edd45c61f8a452611a59b4accfdae32a15e90c13efefdbd945",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/name/resolve.d.ts": {
+        "version": "a45a35030779485850b8ddbdd31c1ccab1ae1afb6f822e7cfe553f498395bc3d",
+        "signature": "a45a35030779485850b8ddbdd31c1ccab1ae1afb6f822e7cfe553f498395bc3d",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/ping.d.ts": {
+        "version": "0431c24198b6ce8ab82dd86270daafb600488a8ead816a1cdac00edd11bfefa5",
+        "signature": "0431c24198b6ce8ab82dd86270daafb600488a8ead816a1cdac00edd11bfefa5",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/version.d.ts": {
+        "version": "fcef34656a8e10b625bd6300db21c8ebb69b7104567f223d5c2ffdeec57e8040",
+        "signature": "fcef34656a8e10b625bd6300db21c8ebb69b7104567f223d5c2ffdeec57e8040",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/init.d.ts": {
+        "version": "5be05634b13ad790332d1d4f99609ecba040d74e6bcb1f2c521e8872c6cfd52e",
+        "signature": "5be05634b13ad790332d1d4f99609ecba040d74e6bcb1f2c521e8872c6cfd52e",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/add-all/index.d.ts": {
+        "version": "33a209cd47693605aaa7fd78a047e748f680050683a3cdc71160d8f80620d9af",
+        "signature": "33a209cd47693605aaa7fd78a047e748f680050683a3cdc71160d8f80620d9af",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/add.d.ts": {
+        "version": "4c4906884715739df6aec2205356a02d45fc12ec10989f56102f1c8ebec7be19",
+        "signature": "4c4906884715739df6aec2205356a02d45fc12ec10989f56102f1c8ebec7be19",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/block/get.d.ts": {
+        "version": "95891c8ff1b7dc7b739a0a8f1c2e863e8b8ea7afed2e6c0b911b70e0b3615570",
+        "signature": "95891c8ff1b7dc7b739a0a8f1c2e863e8b8ea7afed2e6c0b911b70e0b3615570",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/block/put.d.ts": {
+        "version": "be0c0cbf03940370dd580320ae8b95d2c85ba08a979986a3852e2670d29c7ca7",
+        "signature": "be0c0cbf03940370dd580320ae8b95d2c85ba08a979986a3852e2670d29c7ca7",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/pin/pin-manager.d.ts": {
+        "version": "2387b03f98ffb8ac3ddeab19152c746168d82ba9397c540c854c8a74e269291d",
+        "signature": "2387b03f98ffb8ac3ddeab19152c746168d82ba9397c540c854c8a74e269291d",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/block/rm.d.ts": {
+        "version": "922c49b44134a93ca1d8b470947b5b27b0af32b7af1108a16122cbc5aebb954e",
+        "signature": "922c49b44134a93ca1d8b470947b5b27b0af32b7af1108a16122cbc5aebb954e",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/block/stat.d.ts": {
+        "version": "10743354dabd81dfc5cc9c290157fbe919d387bf3ca0fdd2cc2cdd4c6c4d7a3a",
+        "signature": "10743354dabd81dfc5cc9c290157fbe919d387bf3ca0fdd2cc2cdd4c6c4d7a3a",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/dag/get.d.ts": {
+        "version": "d751db9aeb2be0baa613a72760dd01427c19305f268f6a164cbccf2777774c41",
+        "signature": "d751db9aeb2be0baa613a72760dd01427c19305f268f6a164cbccf2777774c41",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/dag/put.d.ts": {
+        "version": "abc8daa0bbe30db873e5df8b875231befe928ce5ad00de91ee2494772564911a",
+        "signature": "abc8daa0bbe30db873e5df8b875231befe928ce5ad00de91ee2494772564911a",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/dag/resolve.d.ts": {
+        "version": "35014da56bcb308b4cca4c8261e3fe66305a65161ebc4faee547a455b3f2b163",
+        "signature": "35014da56bcb308b4cca4c8261e3fe66305a65161ebc4faee547a455b3f2b163",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/dag/tree.d.ts": {
+        "version": "d5e96e96c950667904aab7bad48335d81962b98aefa981672e5fa6d4e6fb30a6",
+        "signature": "d5e96e96c950667904aab7bad48335d81962b98aefa981672e5fa6d4e6fb30a6",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core-utils/dist/src/pins/normalise-input.d.ts": {
+        "version": "eae903e94300f7881096c6d5d49c180ca2bb1fd28518854db609026b3f9a70ed",
+        "signature": "eae903e94300f7881096c6d5d49c180ca2bb1fd28518854db609026b3f9a70ed",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/pin/add-all.d.ts": {
+        "version": "49b1b3e2af1a03828e420e8ca2b7bfd89fdecbb089fc0bfe58a0521cfef6153e",
+        "signature": "49b1b3e2af1a03828e420e8ca2b7bfd89fdecbb089fc0bfe58a0521cfef6153e",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/pin/add.d.ts": {
+        "version": "d50f1e045c38e920d22b251ab841df2434b2da1f4c6728ba7f1871dcb322f355",
+        "signature": "d50f1e045c38e920d22b251ab841df2434b2da1f4c6728ba7f1871dcb322f355",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/pin/ls.d.ts": {
+        "version": "c8b85abcdb7132ea1105084876ace47860a52306e857d57629850f635fe9ae98",
+        "signature": "c8b85abcdb7132ea1105084876ace47860a52306e857d57629850f635fe9ae98",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/pin/rm-all.d.ts": {
+        "version": "b1e7fd55c1c7a742ce5783b0f5a219034bc6d7858680be8769673eb7d315485e",
+        "signature": "b1e7fd55c1c7a742ce5783b0f5a219034bc6d7858680be8769673eb7d315485e",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/pin/rm.d.ts": {
+        "version": "e9f35476bda9f7c4ff1570a67930b26ad8aab1079e1fcdd0f8fafd2be5c7e139",
+        "signature": "e9f35476bda9f7c4ff1570a67930b26ad8aab1079e1fcdd0f8fafd2be5c7e139",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/bitswap/unwant.d.ts": {
+        "version": "ee60e48dca73ab85af674ed008ea2c4573e7737da2af7f44eeec14ac0dccf2fb",
+        "signature": "ee60e48dca73ab85af674ed008ea2c4573e7737da2af7f44eeec14ac0dccf2fb",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/bitswap/wantlist.d.ts": {
+        "version": "6694f0598ea2f141fd7b7810b7376d2811e0ddc74d3d6d5286e46a3d028763a0",
+        "signature": "6694f0598ea2f141fd7b7810b7376d2811e0ddc74d3d6d5286e46a3d028763a0",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/bootstrap/add.d.ts": {
+        "version": "9bdf6320541631b320637a976dcfb35362d0d29a22ea4fa6d249a22edd024ec2",
+        "signature": "9bdf6320541631b320637a976dcfb35362d0d29a22ea4fa6d249a22edd024ec2",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/bootstrap/list.d.ts": {
+        "version": "350ccc125ed87ae1c2997099e0fd6cb4c5f9c8430eddf20587dc4768380a5365",
+        "signature": "350ccc125ed87ae1c2997099e0fd6cb4c5f9c8430eddf20587dc4768380a5365",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/bootstrap/rm.d.ts": {
+        "version": "4ee423f464cecb5c3ba95dd49dfcc99fc8de3d958246d0a25c3944d84f6ebde9",
+        "signature": "4ee423f464cecb5c3ba95dd49dfcc99fc8de3d958246d0a25c3944d84f6ebde9",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/key/export.d.ts": {
+        "version": "4ad6b84629d806ce284f734aaa6a8567d7201a480ac33994265710b8b4988336",
+        "signature": "4ad6b84629d806ce284f734aaa6a8567d7201a480ac33994265710b8b4988336",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/key/gen.d.ts": {
+        "version": "8261ff0a5115f1f5f188af0250ce473538dd825eb184c0cecd598fadb7e05f5e",
+        "signature": "8261ff0a5115f1f5f188af0250ce473538dd825eb184c0cecd598fadb7e05f5e",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/key/import.d.ts": {
+        "version": "eb87d4c088a33de391340dc6099479d2eb643666e196ec5e47acf185f272c953",
+        "signature": "eb87d4c088a33de391340dc6099479d2eb643666e196ec5e47acf185f272c953",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/key/info.d.ts": {
+        "version": "39005b5be201eb0d8a8b10bb7b115fb7e96b74517a7f7c4e03649ed0797d0c0f",
+        "signature": "39005b5be201eb0d8a8b10bb7b115fb7e96b74517a7f7c4e03649ed0797d0c0f",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/key/list.d.ts": {
+        "version": "ac88200f2e100f212773f975f17ad30d8aed9143ec5047bcdbbf89ea81fba158",
+        "signature": "ac88200f2e100f212773f975f17ad30d8aed9143ec5047bcdbbf89ea81fba158",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/key/rename.d.ts": {
+        "version": "d7d8f0c2e8747abd6be4fb7d9242527237f5dc9299e3e44056c1c5ac6e74fa32",
+        "signature": "d7d8f0c2e8747abd6be4fb7d9242527237f5dc9299e3e44056c1c5ac6e74fa32",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/key/rm.d.ts": {
+        "version": "15b167d2c50522bec0c11ac80792c60802a1fa486f35b8345243305a24fd1c30",
+        "signature": "15b167d2c50522bec0c11ac80792c60802a1fa486f35b8345243305a24fd1c30",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/name/pubsub/cancel.d.ts": {
+        "version": "b3deec6a90526639b08b0ef1587f2a5f7ca38189c741b4c6d271e79a10dec685",
+        "signature": "b3deec6a90526639b08b0ef1587f2a5f7ca38189c741b4c6d271e79a10dec685",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/name/pubsub/state.d.ts": {
+        "version": "73a2248bd95d5beaa1144f39dba315a9870439f1163370c5f8f082eacbe63cf8",
+        "signature": "73a2248bd95d5beaa1144f39dba315a9870439f1163370c5f8f082eacbe63cf8",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/name/pubsub/subs.d.ts": {
+        "version": "879d4c8cbb9fa96beb52e09c1bb5bf7e76f0bfb6fb406f9e08264622d2943087",
+        "signature": "879d4c8cbb9fa96beb52e09c1bb5bf7e76f0bfb6fb406f9e08264622d2943087",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/object/data.d.ts": {
+        "version": "68543bf11b9ff7586f13ada8ab77f91b0e4e486193daec732f231eb092174115",
+        "signature": "68543bf11b9ff7586f13ada8ab77f91b0e4e486193daec732f231eb092174115",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/object/get.d.ts": {
+        "version": "8a7a2baf5ee00412705d9de55b676932dd20f2b408c34ea965ea320d4b748997",
+        "signature": "8a7a2baf5ee00412705d9de55b676932dd20f2b408c34ea965ea320d4b748997",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/object/links.d.ts": {
+        "version": "33e916531b1828263ba3c3306d4d256f6ad6a7533f5404d0fc34175dea83e501",
+        "signature": "33e916531b1828263ba3c3306d4d256f6ad6a7533f5404d0fc34175dea83e501",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/object/new.d.ts": {
+        "version": "276f8cb6038d00e471d365fa1b8aaac688fd36cb75735f68303c50ee1c6ab545",
+        "signature": "276f8cb6038d00e471d365fa1b8aaac688fd36cb75735f68303c50ee1c6ab545",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/object/put.d.ts": {
+        "version": "12f6c1b279506d733393ad52809f5453a4ebd1c1e30bab0fb36e7c8b3dc2e183",
+        "signature": "12f6c1b279506d733393ad52809f5453a4ebd1c1e30bab0fb36e7c8b3dc2e183",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/object/stat.d.ts": {
+        "version": "a23767a2dda7117596a6bb51c162e1dc01e9aa2c7411aad7db83f34e285c2d3b",
+        "signature": "a23767a2dda7117596a6bb51c162e1dc01e9aa2c7411aad7db83f34e285c2d3b",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/object/patch/add-link.d.ts": {
+        "version": "ed79e40132f78800c0886797c507806daa32381395315cec9d6b4da5d600e32d",
+        "signature": "ed79e40132f78800c0886797c507806daa32381395315cec9d6b4da5d600e32d",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/object/patch/rm-link.d.ts": {
+        "version": "69cfee4485b1df7388f13a35c2a4cadf5a9acd5205719f038ee223a16b7060e4",
+        "signature": "69cfee4485b1df7388f13a35c2a4cadf5a9acd5205719f038ee223a16b7060e4",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/object/patch/append-data.d.ts": {
+        "version": "c3b703d03a30c5a74215c032faadbf6ebedf266b8523c7d3437850c134e38fb3",
+        "signature": "c3b703d03a30c5a74215c032faadbf6ebedf266b8523c7d3437850c134e38fb3",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/object/patch/set-data.d.ts": {
+        "version": "50255ef46bdf839c95b5d000d5dbe625035b82ee592eaf3b50664c19ee159b89",
+        "signature": "50255ef46bdf839c95b5d000d5dbe625035b82ee592eaf3b50664c19ee159b89",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/repo/stat.d.ts": {
+        "version": "87d52971dc35c2eb0b3b6d7be2857285a0d801fa608f448266702d9a13753bae",
+        "signature": "87d52971dc35c2eb0b3b6d7be2857285a0d801fa608f448266702d9a13753bae",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/repo/version.d.ts": {
+        "version": "98200b5dbe17aea54acdd762019b5ae8dbfb711fea0cbfa8c05aae81bf1dde8b",
+        "signature": "98200b5dbe17aea54acdd762019b5ae8dbfb711fea0cbfa8c05aae81bf1dde8b",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/stats/bw.d.ts": {
+        "version": "28d5cf96f1f1b1b03009560ac6a4c06f061c838555e6e51cc230e2f41518d052",
+        "signature": "28d5cf96f1f1b1b03009560ac6a4c06f061c838555e6e51cc230e2f41518d052",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/swarm/addrs.d.ts": {
+        "version": "c02b9db30b459f105367e8816f7d594277a0962b853122d3e056aa3bf1b5a2b2",
+        "signature": "c02b9db30b459f105367e8816f7d594277a0962b853122d3e056aa3bf1b5a2b2",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/swarm/connect.d.ts": {
+        "version": "0c083aec14e8e21bdfe0c7938b977ba5891268e28fa1b7bf990969ed12a67c66",
+        "signature": "0c083aec14e8e21bdfe0c7938b977ba5891268e28fa1b7bf990969ed12a67c66",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/swarm/disconnect.d.ts": {
+        "version": "080d449128999333e4e0a1ee5afd345bce6d326ffe3cd39c70b2842d5f1311c2",
+        "signature": "080d449128999333e4e0a1ee5afd345bce6d326ffe3cd39c70b2842d5f1311c2",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/swarm/local-addrs.d.ts": {
+        "version": "2239f0fb399706d84a30ace1df29a1ebb286cce01745c9dc99bf5042cfd02494",
+        "signature": "2239f0fb399706d84a30ace1df29a1ebb286cce01745c9dc99bf5042cfd02494",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/swarm/peers.d.ts": {
+        "version": "312a900c7501cd71c4121dc78a6dce2e3d1b3077548d2ab168e2274a19701dfc",
+        "signature": "312a900c7501cd71c4121dc78a6dce2e3d1b3077548d2ab168e2274a19701dfc",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/components/index.d.ts": {
+        "version": "e5490fddb11918fbbe92746d12b9b40491d009f854494c72251288879a06b514",
+        "signature": "e5490fddb11918fbbe92746d12b9b40491d009f854494c72251288879a06b514",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-core/dist/src/utils.d.ts": {
+        "version": "337c24e94d204661b900a89196cb555e574ca7fef13b67d9e598f06b66b12a34",
+        "signature": "337c24e94d204661b900a89196cb555e574ca7fef13b67d9e598f06b66b12a34",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-http-client/dist/src/lib/core.d.ts": {
+        "version": "de0c4967857792096fe47bfc5927e53fb4817fc2acc4996b8f4c67e7fb072d66",
+        "signature": "de0c4967857792096fe47bfc5927e53fb4817fc2acc4996b8f4c67e7fb072d66",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-http-client/dist/src/interface.d.ts": {
+        "version": "ed897ab99d24fc1493724e6964cdbc62f3dad25594f84d9b7acdecde118845d7",
+        "signature": "ed897ab99d24fc1493724e6964cdbc62f3dad25594f84d9b7acdecde118845d7",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-http-client/dist/src/index.d.ts": {
+        "version": "3307f1dec91072fc8cddb2f3f995aa8b1dc42f57b30946a3a6f9e2c6b0efeec2",
+        "signature": "3307f1dec91072fc8cddb2f3f995aa8b1dc42f57b30946a3a6f9e2c6b0efeec2",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-cli/dist/src/utils.d.ts": {
+        "version": "4e54230abc531971675ac03d1fb8fe0b3fc40e275dfae73038f0080c254a8697",
+        "signature": "4e54230abc531971675ac03d1fb8fe0b3fc40e275dfae73038f0080c254a8697",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/debug/index.d.ts": {
+        "version": "3cf5f191d75bbe7c92f921e5ae12004ac672266e2be2ece69f40b1d6b1b678f9",
+        "signature": "3cf5f191d75bbe7c92f921e5ae12004ac672266e2be2ece69f40b1d6b1b678f9",
+        "affectsGlobalScope": false
+      },
+      "../../ipfs-cli/dist/src/index.d.ts": {
+        "version": "663bb99fffafa1b87b788db3188aa7e6ba5c66bb69d2645945be6ab0dbf994b1",
+        "signature": "663bb99fffafa1b87b788db3188aa7e6ba5c66bb69d2645945be6ab0dbf994b1",
+        "affectsGlobalScope": false
+      },
+      "../src/cli.js": {
+        "version": "f107426993d30764540f66884b7508b6c2e0c28cc27410ed4545669cdbd3d781",
+        "signature": "491555ad6efbe16671f40c6fbb04ef68c2c0c354b5ffdcd5046a119cef91b822",
+        "affectsGlobalScope": true
+      },
+      "../../ipfs-core/dist/src/index.d.ts": {
+        "version": "188b790975998d80f43f9f091c3f6b8b8be71f9154b51d661a4269b08b17c475",
+        "signature": "188b790975998d80f43f9f091c3f6b8b8be71f9154b51d661a4269b08b17c475",
+        "affectsGlobalScope": false
+      },
+      "../src/index.js": {
+        "version": "61a5c13f844c995b774e74089a02d44278128d580e0aa67faca2cdded8974105",
+        "signature": "66dcae1b5ca0be6329709b45324317be97465b4820d081e7381403f36313e83c",
+        "affectsGlobalScope": true
+      },
+      "../../../node_modules/@types/bl/index.d.ts": {
+        "version": "d23ef16ff98628c109de90d06061083706944d8d61fbfe78721f5c447f084aba",
+        "signature": "d23ef16ff98628c109de90d06061083706944d8d61fbfe78721f5c447f084aba",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/minimatch/index.d.ts": {
+        "version": "1d1e6bd176eee5970968423d7e215bfd66828b6db8d54d17afec05a831322633",
+        "signature": "1d1e6bd176eee5970968423d7e215bfd66828b6db8d54d17afec05a831322633",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/glob/index.d.ts": {
+        "version": "393137c76bd922ba70a2f8bf1ade4f59a16171a02fb25918c168d48875b0cfb0",
+        "signature": "393137c76bd922ba70a2f8bf1ade4f59a16171a02fb25918c168d48875b0cfb0",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/it-all/index.d.ts": {
+        "version": "be168345c6773e617d93543f0137794aeb8dbe88c5294bcafe6959bd8aa4d793",
+        "signature": "be168345c6773e617d93543f0137794aeb8dbe88c5294bcafe6959bd8aa4d793",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/json-schema/index.d.ts": {
+        "version": "b2be568d8ce95fcb26eebd04c035d94825655fdf689bf67d799f5ff8cbbb1024",
+        "signature": "b2be568d8ce95fcb26eebd04c035d94825655fdf689bf67d799f5ff8cbbb1024",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/json5/index.d.ts": {
+        "version": "96d14f21b7652903852eef49379d04dbda28c16ed36468f8c9fa08f7c14c9538",
+        "signature": "96d14f21b7652903852eef49379d04dbda28c16ed36468f8c9fa08f7c14c9538",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/long/index.d.ts": {
+        "version": "e8465811693dfe4e96ef2b3dffda539d6edfe896961b7af37b44db2c0e48532b",
+        "signature": "e8465811693dfe4e96ef2b3dffda539d6edfe896961b7af37b44db2c0e48532b",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/minimist/index.d.ts": {
+        "version": "e437d83044ba17246a861aa9691aa14223ff4a9d6f338ab1269c41c758586a88",
+        "signature": "e437d83044ba17246a861aa9691aa14223ff4a9d6f338ab1269c41c758586a88",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/normalize-package-data/index.d.ts": {
+        "version": "c9ad058b2cc9ce6dc2ed92960d6d009e8c04bef46d3f5312283debca6869f613",
+        "signature": "c9ad058b2cc9ce6dc2ed92960d6d009e8c04bef46d3f5312283debca6869f613",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/parse-json/index.d.ts": {
+        "version": "2b8264b2fefd7367e0f20e2c04eed5d3038831fe00f5efbc110ff0131aab899b",
+        "signature": "2b8264b2fefd7367e0f20e2c04eed5d3038831fe00f5efbc110ff0131aab899b",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/safe-buffer/index.d.ts": {
+        "version": "5e379df3d61561c2ed7789b5995b9ba2143bbba21a905e2381e16efe7d1fa424",
+        "signature": "5e379df3d61561c2ed7789b5995b9ba2143bbba21a905e2381e16efe7d1fa424",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/readable-stream/index.d.ts": {
+        "version": "0d8b40bf50af939b854673143c83b174d87f3a4fdaa0b7979ebb94f374b38306",
+        "signature": "0d8b40bf50af939b854673143c83b174d87f3a4fdaa0b7979ebb94f374b38306",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/retry/index.d.ts": {
+        "version": "199f9ead0daf25ae4c5632e3d1f42570af59685294a38123eef457407e13f365",
+        "signature": "199f9ead0daf25ae4c5632e3d1f42570af59685294a38123eef457407e13f365",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/unist/index.d.ts": {
+        "version": "1320ee42b30487cceb6da9f230354fc34826111f76bf12f0ad76c717c12625b0",
+        "signature": "1320ee42b30487cceb6da9f230354fc34826111f76bf12f0ad76c717c12625b0",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/yargs-parser/index.d.ts": {
+        "version": "fdfbe321c556c39a2ecf791d537b999591d0849e971dd938d88f460fea0186f6",
+        "signature": "fdfbe321c556c39a2ecf791d537b999591d0849e971dd938d88f460fea0186f6",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/yargs/index.d.ts": {
+        "version": "05f62e0850c9912b5bb8004ce7e238497a095a7c016693842195302a92a8c51f",
+        "signature": "05f62e0850c9912b5bb8004ce7e238497a095a7c016693842195302a92a8c51f",
+        "affectsGlobalScope": false
+      },
+      "../../../node_modules/@types/yauzl/index.d.ts": {
+        "version": "3845d3b64286c12c60d39fc90ac1cc5e47cbc951530658d2567d578b2faa1f26",
+        "signature": "3845d3b64286c12c60d39fc90ac1cc5e47cbc951530658d2567d578b2faa1f26",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "allowJs": true,
+      "checkJs": true,
+      "forceConsistentCasingInFileNames": true,
+      "noImplicitReturns": false,
+      "noImplicitAny": false,
+      "noImplicitThis": true,
+      "noFallthroughCasesInSwitch": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": false,
+      "strictFunctionTypes": true,
+      "strictNullChecks": true,
+      "strictPropertyInitialization": true,
+      "strictBindCallApply": true,
+      "strict": true,
+      "alwaysStrict": true,
+      "esModuleInterop": true,
+      "target": 5,
+      "moduleResolution": 2,
+      "declaration": true,
+      "declarationMap": true,
+      "skipLibCheck": true,
+      "stripInternal": true,
+      "resolveJsonModule": true,
+      "incremental": true,
+      "baseUrl": "../..",
+      "paths": {
+        "interface-ipfs-core/*": [
+          "interface-ipfs-core/*"
+        ],
+        "ipfs/*": [
+          "ipfs/*"
+        ],
+        "ipfs-cli/*": [
+          "ipfs-cli/*"
+        ],
+        "ipfs-core/*": [
+          "ipfs-core/*"
+        ],
+        "ipfs-core-utils/*": [
+          "ipfs-core-utils/*"
+        ],
+        "ipfs-http-client/*": [
+          "ipfs-http-client/*"
+        ],
+        "ipfs-http-gateway/*": [
+          "ipfs-http-gateway/*"
+        ],
+        "ipfs-http-server/*": [
+          "ipfs-http-server/*"
+        ],
+        "ipfs-message-port-protocol/*": [
+          "ipfs-message-port-protocol/*"
+        ],
+        "ipfs-message-port-server/*": [
+          "ipfs-message-port-server/*"
+        ]
+      },
+      "composite": true,
+      "emitDeclarationOnly": true,
+      "outDir": "./",
+      "configFilePath": "../tsconfig.json"
+    },
+    "referencedMap": {
+      "../../../node_modules/@types/bl/index.d.ts": [
+        "../../../node_modules/@types/node/index.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts"
+      ],
+      "../../../node_modules/@types/glob/index.d.ts": [
+        "../../../node_modules/@types/minimatch/index.d.ts",
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/index.d.ts"
+      ],
+      "../../../node_modules/@types/node/base.d.ts": [
+        "../../../node_modules/@types/node/assert.d.ts",
+        "../../../node_modules/@types/node/ts3.6/base.d.ts"
+      ],
+      "../../../node_modules/@types/node/child_process.d.ts": [
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/fs.d.ts",
+        "../../../node_modules/@types/node/net.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts"
+      ],
+      "../../../node_modules/@types/node/cluster.d.ts": [
+        "../../../node_modules/@types/node/child_process.d.ts",
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/net.d.ts"
+      ],
+      "../../../node_modules/@types/node/console.d.ts": [
+        "../../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../node_modules/@types/node/constants.d.ts": [
+        "../../../node_modules/@types/node/crypto.d.ts",
+        "../../../node_modules/@types/node/fs.d.ts",
+        "../../../node_modules/@types/node/os.d.ts"
+      ],
+      "../../../node_modules/@types/node/crypto.d.ts": [
+        "../../../node_modules/@types/node/stream.d.ts"
+      ],
+      "../../../node_modules/@types/node/dgram.d.ts": [
+        "../../../node_modules/@types/node/dns.d.ts",
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/net.d.ts"
+      ],
+      "../../../node_modules/@types/node/domain.d.ts": [
+        "../../../node_modules/@types/node/events.d.ts"
+      ],
+      "../../../node_modules/@types/node/fs.d.ts": [
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/fs/promises.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts",
+        "../../../node_modules/@types/node/url.d.ts"
+      ],
+      "../../../node_modules/@types/node/fs/promises.d.ts": [
+        "../../../node_modules/@types/node/fs.d.ts"
+      ],
+      "../../../node_modules/@types/node/http.d.ts": [
+        "../../../node_modules/@types/node/net.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts",
+        "../../../node_modules/@types/node/url.d.ts"
+      ],
+      "../../../node_modules/@types/node/http2.d.ts": [
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/fs.d.ts",
+        "../../../node_modules/@types/node/http.d.ts",
+        "../../../node_modules/@types/node/net.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts",
+        "../../../node_modules/@types/node/tls.d.ts",
+        "../../../node_modules/@types/node/url.d.ts"
+      ],
+      "../../../node_modules/@types/node/https.d.ts": [
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/http.d.ts",
+        "../../../node_modules/@types/node/tls.d.ts",
+        "../../../node_modules/@types/node/url.d.ts"
+      ],
+      "../../../node_modules/@types/node/index.d.ts": [
+        "../../../node_modules/@types/node/base.d.ts"
+      ],
+      "../../../node_modules/@types/node/inspector.d.ts": [
+        "../../../node_modules/@types/node/events.d.ts"
+      ],
+      "../../../node_modules/@types/node/module.d.ts": [
+        "../../../node_modules/@types/node/url.d.ts"
+      ],
+      "../../../node_modules/@types/node/net.d.ts": [
+        "../../../node_modules/@types/node/dns.d.ts",
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts"
+      ],
+      "../../../node_modules/@types/node/perf_hooks.d.ts": [
+        "../../../node_modules/@types/node/async_hooks.d.ts"
+      ],
+      "../../../node_modules/@types/node/process.d.ts": [
+        "../../../node_modules/@types/node/tty.d.ts"
+      ],
+      "../../../node_modules/@types/node/readline.d.ts": [
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts"
+      ],
+      "../../../node_modules/@types/node/repl.d.ts": [
+        "../../../node_modules/@types/node/readline.d.ts",
+        "../../../node_modules/@types/node/util.d.ts",
+        "../../../node_modules/@types/node/vm.d.ts"
+      ],
+      "../../../node_modules/@types/node/stream.d.ts": [
+        "../../../node_modules/@types/node/events.d.ts"
+      ],
+      "../../../node_modules/@types/node/tls.d.ts": [
+        "../../../node_modules/@types/node/crypto.d.ts",
+        "../../../node_modules/@types/node/dns.d.ts",
+        "../../../node_modules/@types/node/net.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts"
+      ],
+      "../../../node_modules/@types/node/ts3.4/base.d.ts": [
+        "../../../node_modules/@types/node/async_hooks.d.ts",
+        "../../../node_modules/@types/node/buffer.d.ts",
+        "../../../node_modules/@types/node/child_process.d.ts",
+        "../../../node_modules/@types/node/cluster.d.ts",
+        "../../../node_modules/@types/node/console.d.ts",
+        "../../../node_modules/@types/node/constants.d.ts",
+        "../../../node_modules/@types/node/crypto.d.ts",
+        "../../../node_modules/@types/node/dgram.d.ts",
+        "../../../node_modules/@types/node/dns.d.ts",
+        "../../../node_modules/@types/node/domain.d.ts",
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/fs.d.ts",
+        "../../../node_modules/@types/node/fs/promises.d.ts",
+        "../../../node_modules/@types/node/globals.d.ts",
+        "../../../node_modules/@types/node/http.d.ts",
+        "../../../node_modules/@types/node/http2.d.ts",
+        "../../../node_modules/@types/node/https.d.ts",
+        "../../../node_modules/@types/node/inspector.d.ts",
+        "../../../node_modules/@types/node/module.d.ts",
+        "../../../node_modules/@types/node/net.d.ts",
+        "../../../node_modules/@types/node/os.d.ts",
+        "../../../node_modules/@types/node/path.d.ts",
+        "../../../node_modules/@types/node/perf_hooks.d.ts",
+        "../../../node_modules/@types/node/process.d.ts",
+        "../../../node_modules/@types/node/punycode.d.ts",
+        "../../../node_modules/@types/node/querystring.d.ts",
+        "../../../node_modules/@types/node/readline.d.ts",
+        "../../../node_modules/@types/node/repl.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts",
+        "../../../node_modules/@types/node/string_decoder.d.ts",
+        "../../../node_modules/@types/node/timers.d.ts",
+        "../../../node_modules/@types/node/tls.d.ts",
+        "../../../node_modules/@types/node/trace_events.d.ts",
+        "../../../node_modules/@types/node/tty.d.ts",
+        "../../../node_modules/@types/node/url.d.ts",
+        "../../../node_modules/@types/node/util.d.ts",
+        "../../../node_modules/@types/node/v8.d.ts",
+        "../../../node_modules/@types/node/vm.d.ts",
+        "../../../node_modules/@types/node/worker_threads.d.ts",
+        "../../../node_modules/@types/node/zlib.d.ts"
+      ],
+      "../../../node_modules/@types/node/ts3.6/base.d.ts": [
+        "../../../node_modules/@types/node/globals.global.d.ts",
+        "../../../node_modules/@types/node/ts3.4/base.d.ts",
+        "../../../node_modules/@types/node/wasi.d.ts"
+      ],
+      "../../../node_modules/@types/node/tty.d.ts": [
+        "../../../node_modules/@types/node/net.d.ts"
+      ],
+      "../../../node_modules/@types/node/url.d.ts": [
+        "../../../node_modules/@types/node/querystring.d.ts"
+      ],
+      "../../../node_modules/@types/node/v8.d.ts": [
+        "../../../node_modules/@types/node/stream.d.ts"
+      ],
+      "../../../node_modules/@types/node/worker_threads.d.ts": [
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/fs/promises.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts",
+        "../../../node_modules/@types/node/url.d.ts",
+        "../../../node_modules/@types/node/vm.d.ts"
+      ],
+      "../../../node_modules/@types/node/zlib.d.ts": [
+        "../../../node_modules/@types/node/stream.d.ts"
+      ],
+      "../../../node_modules/@types/readable-stream/index.d.ts": [
+        "../../../node_modules/@types/node/index.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts",
+        "../../../node_modules/safe-buffer/index.d.ts"
+      ],
+      "../../../node_modules/@types/yargs/index.d.ts": [
+        "../../../node_modules/@types/yargs-parser/index.d.ts"
+      ],
+      "../../../node_modules/@types/yauzl/index.d.ts": [
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/index.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts"
+      ],
+      "../../../node_modules/libp2p-crypto/src/index.d.ts": [
+        "../../../node_modules/@types/node/index.d.ts"
+      ],
+      "../../../node_modules/peer-id/src/index.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../../node_modules/libp2p-crypto/src/index.d.ts"
+      ],
+      "../../ipfs-cli/dist/src/utils.d.ts": [
+        "../../../node_modules/bignumber.js/bignumber.d.ts",
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../../node_modules/multiaddr/src/index.d.ts",
+        "../../../node_modules/peer-id/src/index.d.ts",
+        "../../ipfs-core-utils/dist/src/files/normalise-input/normalise-input.d.ts",
+        "../../ipfs-core/dist/src/components/add-all/index.d.ts",
+        "../../ipfs-core/dist/src/components/add.d.ts",
+        "../../ipfs-core/dist/src/components/bitswap/stat.d.ts",
+        "../../ipfs-core/dist/src/components/block/get.d.ts",
+        "../../ipfs-core/dist/src/components/block/put.d.ts",
+        "../../ipfs-core/dist/src/components/block/rm.d.ts",
+        "../../ipfs-core/dist/src/components/block/stat.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/utils.d.ts",
+        "../../ipfs-core/dist/src/components/cat.d.ts",
+        "../../ipfs-core/dist/src/components/config.d.ts",
+        "../../ipfs-core/dist/src/components/dag/get.d.ts",
+        "../../ipfs-core/dist/src/components/dag/put.d.ts",
+        "../../ipfs-core/dist/src/components/dag/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/dht.d.ts",
+        "../../ipfs-core/dist/src/components/dns.d.ts",
+        "../../ipfs-core/dist/src/components/files/chmod.d.ts",
+        "../../ipfs-core/dist/src/components/files/cp.d.ts",
+        "../../ipfs-core/dist/src/components/files/index.d.ts",
+        "../../ipfs-core/dist/src/components/files/ls.d.ts",
+        "../../ipfs-core/dist/src/components/files/mkdir.d.ts",
+        "../../ipfs-core/dist/src/components/files/mv.d.ts",
+        "../../ipfs-core/dist/src/components/files/read.d.ts",
+        "../../ipfs-core/dist/src/components/files/rm.d.ts",
+        "../../ipfs-core/dist/src/components/files/stat.d.ts",
+        "../../ipfs-core/dist/src/components/files/touch.d.ts",
+        "../../ipfs-core/dist/src/components/files/write.d.ts",
+        "../../ipfs-core/dist/src/components/get.d.ts",
+        "../../ipfs-core/dist/src/components/id.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/ls.d.ts",
+        "../../ipfs-core/dist/src/components/name/publish.d.ts",
+        "../../ipfs-core/dist/src/components/name/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/ping.d.ts",
+        "../../ipfs-core/dist/src/components/repo/gc.d.ts",
+        "../../ipfs-core/dist/src/components/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/version.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts",
+        "../../ipfs-http-client/dist/src/index.d.ts",
+        "../../ipfs-http-client/dist/src/interface.d.ts"
+      ],
+      "../../ipfs-core-utils/dist/src/files/normalise-input/normalise-input.d.ts": [
+        "../../ipfs-core-utils/dist/src/files/format-mtime.d.ts"
+      ],
+      "../../ipfs-core-utils/dist/src/pins/normalise-input.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/add-all/index.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core-utils/dist/src/files/normalise-input/normalise-input.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/init.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/add.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core-utils/dist/src/files/format-mtime.d.ts",
+        "../../ipfs-core/dist/src/components/add-all/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/bitswap/stat.d.ts": [
+        "../../../node_modules/bignumber.js/bignumber.d.ts",
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/bitswap/unwant.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/bitswap/wantlist.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/block/get.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/block/put.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/block/rm.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/pin/pin-manager.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/block/stat.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/bootstrap/add.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../../node_modules/multiaddr/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/utils.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/bootstrap/list.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../../node_modules/multiaddr/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/utils.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/bootstrap/rm.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../../node_modules/multiaddr/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/utils.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/bootstrap/utils.d.ts": [
+        "../../../node_modules/multiaddr/src/index.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/cat.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/config.d.ts": [
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/dag/get.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/dag/put.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/dag/resolve.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/dag/tree.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/dht.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../../node_modules/multiaddr/src/index.d.ts",
+        "../../../node_modules/peer-id/src/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/dns.d.ts": [
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/chmod.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/cp.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/flush.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/index.d.ts": [
+        "../../ipfs-core/dist/src/components/files/chmod.d.ts",
+        "../../ipfs-core/dist/src/components/files/cp.d.ts",
+        "../../ipfs-core/dist/src/components/files/flush.d.ts",
+        "../../ipfs-core/dist/src/components/files/ls.d.ts",
+        "../../ipfs-core/dist/src/components/files/mkdir.d.ts",
+        "../../ipfs-core/dist/src/components/files/mv.d.ts",
+        "../../ipfs-core/dist/src/components/files/read.d.ts",
+        "../../ipfs-core/dist/src/components/files/rm.d.ts",
+        "../../ipfs-core/dist/src/components/files/stat.d.ts",
+        "../../ipfs-core/dist/src/components/files/touch.d.ts",
+        "../../ipfs-core/dist/src/components/files/write.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/init.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/ls.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/mkdir.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/mv.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/read.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/rm.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/stat.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/touch.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core-utils/dist/src/files/format-mtime.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/write.d.ts": [
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/get.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/id.d.ts": [
+        "../../../node_modules/multiaddr/src/index.d.ts",
+        "../../../node_modules/peer-id/src/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/index.d.ts": [
+        "../../../node_modules/bignumber.js/bignumber.d.ts",
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../../node_modules/multiaddr/src/index.d.ts",
+        "../../../node_modules/peer-id/src/index.d.ts",
+        "../../ipfs-core-utils/dist/src/files/normalise-input/normalise-input.d.ts",
+        "../../ipfs-core-utils/dist/src/pins/normalise-input.d.ts",
+        "../../ipfs-core/dist/src/api-manager.d.ts",
+        "../../ipfs-core/dist/src/components/add-all/index.d.ts",
+        "../../ipfs-core/dist/src/components/add.d.ts",
+        "../../ipfs-core/dist/src/components/bitswap/stat.d.ts",
+        "../../ipfs-core/dist/src/components/bitswap/unwant.d.ts",
+        "../../ipfs-core/dist/src/components/bitswap/wantlist.d.ts",
+        "../../ipfs-core/dist/src/components/block/get.d.ts",
+        "../../ipfs-core/dist/src/components/block/put.d.ts",
+        "../../ipfs-core/dist/src/components/block/rm.d.ts",
+        "../../ipfs-core/dist/src/components/block/stat.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/add.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/list.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/rm.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/utils.d.ts",
+        "../../ipfs-core/dist/src/components/cat.d.ts",
+        "../../ipfs-core/dist/src/components/config.d.ts",
+        "../../ipfs-core/dist/src/components/dag/get.d.ts",
+        "../../ipfs-core/dist/src/components/dag/put.d.ts",
+        "../../ipfs-core/dist/src/components/dag/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/dag/tree.d.ts",
+        "../../ipfs-core/dist/src/components/dht.d.ts",
+        "../../ipfs-core/dist/src/components/dns.d.ts",
+        "../../ipfs-core/dist/src/components/files/chmod.d.ts",
+        "../../ipfs-core/dist/src/components/files/cp.d.ts",
+        "../../ipfs-core/dist/src/components/files/index.d.ts",
+        "../../ipfs-core/dist/src/components/files/ls.d.ts",
+        "../../ipfs-core/dist/src/components/files/mkdir.d.ts",
+        "../../ipfs-core/dist/src/components/files/mv.d.ts",
+        "../../ipfs-core/dist/src/components/files/read.d.ts",
+        "../../ipfs-core/dist/src/components/files/rm.d.ts",
+        "../../ipfs-core/dist/src/components/files/stat.d.ts",
+        "../../ipfs-core/dist/src/components/files/touch.d.ts",
+        "../../ipfs-core/dist/src/components/files/write.d.ts",
+        "../../ipfs-core/dist/src/components/get.d.ts",
+        "../../ipfs-core/dist/src/components/id.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/init.d.ts",
+        "../../ipfs-core/dist/src/components/key/export.d.ts",
+        "../../ipfs-core/dist/src/components/key/gen.d.ts",
+        "../../ipfs-core/dist/src/components/key/import.d.ts",
+        "../../ipfs-core/dist/src/components/key/info.d.ts",
+        "../../ipfs-core/dist/src/components/key/list.d.ts",
+        "../../ipfs-core/dist/src/components/key/rename.d.ts",
+        "../../ipfs-core/dist/src/components/key/rm.d.ts",
+        "../../ipfs-core/dist/src/components/ls.d.ts",
+        "../../ipfs-core/dist/src/components/name/publish.d.ts",
+        "../../ipfs-core/dist/src/components/name/pubsub/cancel.d.ts",
+        "../../ipfs-core/dist/src/components/name/pubsub/state.d.ts",
+        "../../ipfs-core/dist/src/components/name/pubsub/subs.d.ts",
+        "../../ipfs-core/dist/src/components/name/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/object/data.d.ts",
+        "../../ipfs-core/dist/src/components/object/get.d.ts",
+        "../../ipfs-core/dist/src/components/object/links.d.ts",
+        "../../ipfs-core/dist/src/components/object/new.d.ts",
+        "../../ipfs-core/dist/src/components/object/patch/add-link.d.ts",
+        "../../ipfs-core/dist/src/components/object/patch/append-data.d.ts",
+        "../../ipfs-core/dist/src/components/object/patch/rm-link.d.ts",
+        "../../ipfs-core/dist/src/components/object/patch/set-data.d.ts",
+        "../../ipfs-core/dist/src/components/object/put.d.ts",
+        "../../ipfs-core/dist/src/components/object/stat.d.ts",
+        "../../ipfs-core/dist/src/components/pin/add-all.d.ts",
+        "../../ipfs-core/dist/src/components/pin/add.d.ts",
+        "../../ipfs-core/dist/src/components/pin/ls.d.ts",
+        "../../ipfs-core/dist/src/components/pin/pin-manager.d.ts",
+        "../../ipfs-core/dist/src/components/pin/rm.d.ts",
+        "../../ipfs-core/dist/src/components/ping.d.ts",
+        "../../ipfs-core/dist/src/components/repo/gc.d.ts",
+        "../../ipfs-core/dist/src/components/repo/stat.d.ts",
+        "../../ipfs-core/dist/src/components/repo/version.d.ts",
+        "../../ipfs-core/dist/src/components/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/stats/bw.d.ts",
+        "../../ipfs-core/dist/src/components/swarm/addrs.d.ts",
+        "../../ipfs-core/dist/src/components/swarm/connect.d.ts",
+        "../../ipfs-core/dist/src/components/swarm/disconnect.d.ts",
+        "../../ipfs-core/dist/src/components/swarm/local-addrs.d.ts",
+        "../../ipfs-core/dist/src/components/swarm/peers.d.ts",
+        "../../ipfs-core/dist/src/components/version.d.ts",
+        "../../ipfs-core/dist/src/ipns/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/init.d.ts": [
+        "../../../node_modules/bignumber.js/bignumber.d.ts",
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../../node_modules/multiaddr/src/index.d.ts",
+        "../../../node_modules/peer-id/src/index.d.ts",
+        "../../ipfs-core-utils/dist/src/files/normalise-input/normalise-input.d.ts",
+        "../../ipfs-core/dist/src/api-manager.d.ts",
+        "../../ipfs-core/dist/src/components/add-all/index.d.ts",
+        "../../ipfs-core/dist/src/components/add.d.ts",
+        "../../ipfs-core/dist/src/components/bitswap/stat.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/utils.d.ts",
+        "../../ipfs-core/dist/src/components/cat.d.ts",
+        "../../ipfs-core/dist/src/components/config.d.ts",
+        "../../ipfs-core/dist/src/components/dht.d.ts",
+        "../../ipfs-core/dist/src/components/dns.d.ts",
+        "../../ipfs-core/dist/src/components/files/index.d.ts",
+        "../../ipfs-core/dist/src/components/get.d.ts",
+        "../../ipfs-core/dist/src/components/id.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/ls.d.ts",
+        "../../ipfs-core/dist/src/components/name/publish.d.ts",
+        "../../ipfs-core/dist/src/components/name/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/ping.d.ts",
+        "../../ipfs-core/dist/src/components/repo/gc.d.ts",
+        "../../ipfs-core/dist/src/components/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/version.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/ls.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/name/publish.d.ts": [
+        "../../../node_modules/peer-id/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/init.d.ts",
+        "../../ipfs-core/dist/src/ipns/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/name/pubsub/cancel.d.ts": [
+        "../../ipfs-core/dist/src/components/init.d.ts",
+        "../../ipfs-core/dist/src/ipns/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/name/pubsub/state.d.ts": [
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/name/pubsub/subs.d.ts": [
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/name/resolve.d.ts": [
+        "../../../node_modules/peer-id/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/ipns/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/pin/add-all.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core-utils/dist/src/pins/normalise-input.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/pin/pin-manager.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/pin/add.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/pin/add-all.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/pin/ls.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/pin/pin-manager.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/pin/pin-manager.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/pin/rm-all.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core-utils/dist/src/pins/normalise-input.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/pin/pin-manager.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/pin/rm.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/pin/rm-all.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/ping.d.ts": [
+        "../../../node_modules/peer-id/src/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/repo/gc.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/resolve.d.ts": [
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/stats/bw.d.ts": [
+        "../../../node_modules/bignumber.js/bignumber.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/version.d.ts": [
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/index.d.ts": [
+        "../../../node_modules/bignumber.js/bignumber.d.ts",
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../../node_modules/libp2p-crypto/src/index.d.ts",
+        "../../../node_modules/multiaddr/src/index.d.ts",
+        "../../../node_modules/peer-id/src/index.d.ts",
+        "../../ipfs-core-utils/dist/src/files/normalise-input/normalise-input.d.ts",
+        "../../ipfs-core/dist/src/components/add-all/index.d.ts",
+        "../../ipfs-core/dist/src/components/add.d.ts",
+        "../../ipfs-core/dist/src/components/bitswap/stat.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/utils.d.ts",
+        "../../ipfs-core/dist/src/components/cat.d.ts",
+        "../../ipfs-core/dist/src/components/config.d.ts",
+        "../../ipfs-core/dist/src/components/dht.d.ts",
+        "../../ipfs-core/dist/src/components/dns.d.ts",
+        "../../ipfs-core/dist/src/components/files/index.d.ts",
+        "../../ipfs-core/dist/src/components/get.d.ts",
+        "../../ipfs-core/dist/src/components/id.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/init.d.ts",
+        "../../ipfs-core/dist/src/components/ls.d.ts",
+        "../../ipfs-core/dist/src/components/name/publish.d.ts",
+        "../../ipfs-core/dist/src/components/name/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/ping.d.ts",
+        "../../ipfs-core/dist/src/components/repo/gc.d.ts",
+        "../../ipfs-core/dist/src/components/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/version.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/ipns/index.d.ts": [
+        "../../ipfs-core/dist/src/ipns/publisher.d.ts",
+        "../../ipfs-core/dist/src/ipns/republisher.d.ts",
+        "../../ipfs-core/dist/src/ipns/resolver.d.ts",
+        "../../ipfs-core/dist/src/utils/tlru.d.ts"
+      ],
+      "../../ipfs-core/dist/src/utils.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts"
+      ],
+      "../../ipfs-http-client/dist/src/index.d.ts": [
+        "../../../node_modules/bignumber.js/bignumber.d.ts",
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../../node_modules/multiaddr/src/index.d.ts",
+        "../../../node_modules/peer-id/src/index.d.ts",
+        "../../ipfs-core-utils/dist/src/files/normalise-input/normalise-input.d.ts",
+        "../../ipfs-core/dist/src/components/add-all/index.d.ts",
+        "../../ipfs-core/dist/src/components/add.d.ts",
+        "../../ipfs-core/dist/src/components/bitswap/stat.d.ts",
+        "../../ipfs-core/dist/src/components/block/get.d.ts",
+        "../../ipfs-core/dist/src/components/block/put.d.ts",
+        "../../ipfs-core/dist/src/components/block/rm.d.ts",
+        "../../ipfs-core/dist/src/components/block/stat.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/utils.d.ts",
+        "../../ipfs-core/dist/src/components/cat.d.ts",
+        "../../ipfs-core/dist/src/components/config.d.ts",
+        "../../ipfs-core/dist/src/components/dag/get.d.ts",
+        "../../ipfs-core/dist/src/components/dag/put.d.ts",
+        "../../ipfs-core/dist/src/components/dag/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/dht.d.ts",
+        "../../ipfs-core/dist/src/components/dns.d.ts",
+        "../../ipfs-core/dist/src/components/files/chmod.d.ts",
+        "../../ipfs-core/dist/src/components/files/cp.d.ts",
+        "../../ipfs-core/dist/src/components/files/ls.d.ts",
+        "../../ipfs-core/dist/src/components/files/mkdir.d.ts",
+        "../../ipfs-core/dist/src/components/files/mv.d.ts",
+        "../../ipfs-core/dist/src/components/files/read.d.ts",
+        "../../ipfs-core/dist/src/components/files/rm.d.ts",
+        "../../ipfs-core/dist/src/components/files/stat.d.ts",
+        "../../ipfs-core/dist/src/components/files/touch.d.ts",
+        "../../ipfs-core/dist/src/components/files/write.d.ts",
+        "../../ipfs-core/dist/src/components/get.d.ts",
+        "../../ipfs-core/dist/src/components/id.d.ts",
+        "../../ipfs-core/dist/src/components/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/version.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts",
+        "../../ipfs-http-client/dist/src/interface.d.ts",
+        "../../ipfs-http-client/dist/src/lib/core.d.ts"
+      ],
+      "../../ipfs-http-client/dist/src/lib/core.d.ts": [
+        "../../../node_modules/multiaddr/src/index.d.ts"
+      ],
+      "../src/cli.js": [
+        "../../../node_modules/@types/debug/index.d.ts",
+        "../../ipfs-cli/dist/src/index.d.ts",
+        "../../ipfs-cli/dist/src/utils.d.ts",
+        "../../ipfs-core/dist/src/errors.d.ts",
+        "../package.json"
+      ],
+      "../src/index.js": [
+        "../../ipfs-core/dist/src/index.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../../../node_modules/@types/bl/index.d.ts": [
+        "../../../node_modules/@types/node/index.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts"
+      ],
+      "../../../node_modules/@types/glob/index.d.ts": [
+        "../../../node_modules/@types/minimatch/index.d.ts",
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/index.d.ts"
+      ],
+      "../../../node_modules/@types/node/base.d.ts": [
+        "../../../node_modules/@types/node/assert.d.ts",
+        "../../../node_modules/@types/node/ts3.6/base.d.ts"
+      ],
+      "../../../node_modules/@types/node/child_process.d.ts": [
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/fs.d.ts",
+        "../../../node_modules/@types/node/net.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts"
+      ],
+      "../../../node_modules/@types/node/cluster.d.ts": [
+        "../../../node_modules/@types/node/child_process.d.ts",
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/net.d.ts"
+      ],
+      "../../../node_modules/@types/node/console.d.ts": [
+        "../../../node_modules/@types/node/util.d.ts"
+      ],
+      "../../../node_modules/@types/node/constants.d.ts": [
+        "../../../node_modules/@types/node/crypto.d.ts",
+        "../../../node_modules/@types/node/fs.d.ts",
+        "../../../node_modules/@types/node/os.d.ts"
+      ],
+      "../../../node_modules/@types/node/crypto.d.ts": [
+        "../../../node_modules/@types/node/stream.d.ts"
+      ],
+      "../../../node_modules/@types/node/dgram.d.ts": [
+        "../../../node_modules/@types/node/dns.d.ts",
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/net.d.ts"
+      ],
+      "../../../node_modules/@types/node/domain.d.ts": [
+        "../../../node_modules/@types/node/events.d.ts"
+      ],
+      "../../../node_modules/@types/node/fs.d.ts": [
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/fs/promises.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts",
+        "../../../node_modules/@types/node/url.d.ts"
+      ],
+      "../../../node_modules/@types/node/fs/promises.d.ts": [
+        "../../../node_modules/@types/node/fs.d.ts"
+      ],
+      "../../../node_modules/@types/node/http.d.ts": [
+        "../../../node_modules/@types/node/net.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts",
+        "../../../node_modules/@types/node/url.d.ts"
+      ],
+      "../../../node_modules/@types/node/http2.d.ts": [
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/fs.d.ts",
+        "../../../node_modules/@types/node/http.d.ts",
+        "../../../node_modules/@types/node/net.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts",
+        "../../../node_modules/@types/node/tls.d.ts",
+        "../../../node_modules/@types/node/url.d.ts"
+      ],
+      "../../../node_modules/@types/node/https.d.ts": [
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/http.d.ts",
+        "../../../node_modules/@types/node/tls.d.ts",
+        "../../../node_modules/@types/node/url.d.ts"
+      ],
+      "../../../node_modules/@types/node/index.d.ts": [
+        "../../../node_modules/@types/node/base.d.ts"
+      ],
+      "../../../node_modules/@types/node/inspector.d.ts": [
+        "../../../node_modules/@types/node/events.d.ts"
+      ],
+      "../../../node_modules/@types/node/module.d.ts": [
+        "../../../node_modules/@types/node/url.d.ts"
+      ],
+      "../../../node_modules/@types/node/net.d.ts": [
+        "../../../node_modules/@types/node/dns.d.ts",
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts"
+      ],
+      "../../../node_modules/@types/node/perf_hooks.d.ts": [
+        "../../../node_modules/@types/node/async_hooks.d.ts"
+      ],
+      "../../../node_modules/@types/node/process.d.ts": [
+        "../../../node_modules/@types/node/tty.d.ts"
+      ],
+      "../../../node_modules/@types/node/readline.d.ts": [
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts"
+      ],
+      "../../../node_modules/@types/node/repl.d.ts": [
+        "../../../node_modules/@types/node/readline.d.ts",
+        "../../../node_modules/@types/node/util.d.ts",
+        "../../../node_modules/@types/node/vm.d.ts"
+      ],
+      "../../../node_modules/@types/node/stream.d.ts": [
+        "../../../node_modules/@types/node/events.d.ts"
+      ],
+      "../../../node_modules/@types/node/tls.d.ts": [
+        "../../../node_modules/@types/node/crypto.d.ts",
+        "../../../node_modules/@types/node/dns.d.ts",
+        "../../../node_modules/@types/node/net.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts"
+      ],
+      "../../../node_modules/@types/node/ts3.4/base.d.ts": [
+        "../../../node_modules/@types/node/async_hooks.d.ts",
+        "../../../node_modules/@types/node/buffer.d.ts",
+        "../../../node_modules/@types/node/child_process.d.ts",
+        "../../../node_modules/@types/node/cluster.d.ts",
+        "../../../node_modules/@types/node/console.d.ts",
+        "../../../node_modules/@types/node/constants.d.ts",
+        "../../../node_modules/@types/node/crypto.d.ts",
+        "../../../node_modules/@types/node/dgram.d.ts",
+        "../../../node_modules/@types/node/dns.d.ts",
+        "../../../node_modules/@types/node/domain.d.ts",
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/fs.d.ts",
+        "../../../node_modules/@types/node/fs/promises.d.ts",
+        "../../../node_modules/@types/node/globals.d.ts",
+        "../../../node_modules/@types/node/http.d.ts",
+        "../../../node_modules/@types/node/http2.d.ts",
+        "../../../node_modules/@types/node/https.d.ts",
+        "../../../node_modules/@types/node/inspector.d.ts",
+        "../../../node_modules/@types/node/module.d.ts",
+        "../../../node_modules/@types/node/net.d.ts",
+        "../../../node_modules/@types/node/os.d.ts",
+        "../../../node_modules/@types/node/path.d.ts",
+        "../../../node_modules/@types/node/perf_hooks.d.ts",
+        "../../../node_modules/@types/node/process.d.ts",
+        "../../../node_modules/@types/node/punycode.d.ts",
+        "../../../node_modules/@types/node/querystring.d.ts",
+        "../../../node_modules/@types/node/readline.d.ts",
+        "../../../node_modules/@types/node/repl.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts",
+        "../../../node_modules/@types/node/string_decoder.d.ts",
+        "../../../node_modules/@types/node/timers.d.ts",
+        "../../../node_modules/@types/node/tls.d.ts",
+        "../../../node_modules/@types/node/trace_events.d.ts",
+        "../../../node_modules/@types/node/tty.d.ts",
+        "../../../node_modules/@types/node/url.d.ts",
+        "../../../node_modules/@types/node/util.d.ts",
+        "../../../node_modules/@types/node/v8.d.ts",
+        "../../../node_modules/@types/node/vm.d.ts",
+        "../../../node_modules/@types/node/worker_threads.d.ts",
+        "../../../node_modules/@types/node/zlib.d.ts"
+      ],
+      "../../../node_modules/@types/node/ts3.6/base.d.ts": [
+        "../../../node_modules/@types/node/globals.global.d.ts",
+        "../../../node_modules/@types/node/ts3.4/base.d.ts",
+        "../../../node_modules/@types/node/wasi.d.ts"
+      ],
+      "../../../node_modules/@types/node/tty.d.ts": [
+        "../../../node_modules/@types/node/net.d.ts"
+      ],
+      "../../../node_modules/@types/node/url.d.ts": [
+        "../../../node_modules/@types/node/querystring.d.ts"
+      ],
+      "../../../node_modules/@types/node/v8.d.ts": [
+        "../../../node_modules/@types/node/stream.d.ts"
+      ],
+      "../../../node_modules/@types/node/worker_threads.d.ts": [
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/fs/promises.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts",
+        "../../../node_modules/@types/node/url.d.ts",
+        "../../../node_modules/@types/node/vm.d.ts"
+      ],
+      "../../../node_modules/@types/node/zlib.d.ts": [
+        "../../../node_modules/@types/node/stream.d.ts"
+      ],
+      "../../../node_modules/@types/readable-stream/index.d.ts": [
+        "../../../node_modules/@types/node/index.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts",
+        "../../../node_modules/safe-buffer/index.d.ts"
+      ],
+      "../../../node_modules/@types/yargs/index.d.ts": [
+        "../../../node_modules/@types/yargs-parser/index.d.ts"
+      ],
+      "../../../node_modules/@types/yauzl/index.d.ts": [
+        "../../../node_modules/@types/node/events.d.ts",
+        "../../../node_modules/@types/node/index.d.ts",
+        "../../../node_modules/@types/node/stream.d.ts"
+      ],
+      "../../../node_modules/libp2p-crypto/src/index.d.ts": [
+        "../../../node_modules/@types/node/index.d.ts"
+      ],
+      "../../../node_modules/peer-id/src/index.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../../node_modules/libp2p-crypto/src/index.d.ts"
+      ],
+      "../../ipfs-cli/dist/src/utils.d.ts": [
+        "../../../node_modules/bignumber.js/bignumber.d.ts",
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../../node_modules/multiaddr/src/index.d.ts",
+        "../../../node_modules/peer-id/src/index.d.ts",
+        "../../ipfs-core-utils/dist/src/files/normalise-input/normalise-input.d.ts",
+        "../../ipfs-core/dist/src/components/add-all/index.d.ts",
+        "../../ipfs-core/dist/src/components/add.d.ts",
+        "../../ipfs-core/dist/src/components/bitswap/stat.d.ts",
+        "../../ipfs-core/dist/src/components/block/get.d.ts",
+        "../../ipfs-core/dist/src/components/block/put.d.ts",
+        "../../ipfs-core/dist/src/components/block/rm.d.ts",
+        "../../ipfs-core/dist/src/components/block/stat.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/utils.d.ts",
+        "../../ipfs-core/dist/src/components/cat.d.ts",
+        "../../ipfs-core/dist/src/components/config.d.ts",
+        "../../ipfs-core/dist/src/components/dag/get.d.ts",
+        "../../ipfs-core/dist/src/components/dag/put.d.ts",
+        "../../ipfs-core/dist/src/components/dag/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/dht.d.ts",
+        "../../ipfs-core/dist/src/components/dns.d.ts",
+        "../../ipfs-core/dist/src/components/files/chmod.d.ts",
+        "../../ipfs-core/dist/src/components/files/cp.d.ts",
+        "../../ipfs-core/dist/src/components/files/index.d.ts",
+        "../../ipfs-core/dist/src/components/files/ls.d.ts",
+        "../../ipfs-core/dist/src/components/files/mkdir.d.ts",
+        "../../ipfs-core/dist/src/components/files/mv.d.ts",
+        "../../ipfs-core/dist/src/components/files/read.d.ts",
+        "../../ipfs-core/dist/src/components/files/rm.d.ts",
+        "../../ipfs-core/dist/src/components/files/stat.d.ts",
+        "../../ipfs-core/dist/src/components/files/touch.d.ts",
+        "../../ipfs-core/dist/src/components/files/write.d.ts",
+        "../../ipfs-core/dist/src/components/get.d.ts",
+        "../../ipfs-core/dist/src/components/id.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/ls.d.ts",
+        "../../ipfs-core/dist/src/components/name/publish.d.ts",
+        "../../ipfs-core/dist/src/components/name/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/ping.d.ts",
+        "../../ipfs-core/dist/src/components/repo/gc.d.ts",
+        "../../ipfs-core/dist/src/components/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/version.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts",
+        "../../ipfs-http-client/dist/src/index.d.ts",
+        "../../ipfs-http-client/dist/src/interface.d.ts"
+      ],
+      "../../ipfs-core-utils/dist/src/files/normalise-input/normalise-input.d.ts": [
+        "../../ipfs-core-utils/dist/src/files/format-mtime.d.ts"
+      ],
+      "../../ipfs-core-utils/dist/src/pins/normalise-input.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/add-all/index.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core-utils/dist/src/files/normalise-input/normalise-input.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/init.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/add.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core-utils/dist/src/files/format-mtime.d.ts",
+        "../../ipfs-core/dist/src/components/add-all/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/bitswap/stat.d.ts": [
+        "../../../node_modules/bignumber.js/bignumber.d.ts",
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/bitswap/unwant.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/bitswap/wantlist.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/block/get.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/block/put.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/block/rm.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/pin/pin-manager.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/block/stat.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/bootstrap/add.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../../node_modules/multiaddr/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/utils.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/bootstrap/list.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../../node_modules/multiaddr/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/utils.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/bootstrap/rm.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../../node_modules/multiaddr/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/utils.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/bootstrap/utils.d.ts": [
+        "../../../node_modules/multiaddr/src/index.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/cat.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/config.d.ts": [
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/dag/get.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/dag/put.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/dag/resolve.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/dag/tree.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/dht.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../../node_modules/multiaddr/src/index.d.ts",
+        "../../../node_modules/peer-id/src/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/dns.d.ts": [
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/chmod.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/cp.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/flush.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/index.d.ts": [
+        "../../ipfs-core/dist/src/components/files/chmod.d.ts",
+        "../../ipfs-core/dist/src/components/files/cp.d.ts",
+        "../../ipfs-core/dist/src/components/files/flush.d.ts",
+        "../../ipfs-core/dist/src/components/files/ls.d.ts",
+        "../../ipfs-core/dist/src/components/files/mkdir.d.ts",
+        "../../ipfs-core/dist/src/components/files/mv.d.ts",
+        "../../ipfs-core/dist/src/components/files/read.d.ts",
+        "../../ipfs-core/dist/src/components/files/rm.d.ts",
+        "../../ipfs-core/dist/src/components/files/stat.d.ts",
+        "../../ipfs-core/dist/src/components/files/touch.d.ts",
+        "../../ipfs-core/dist/src/components/files/write.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/init.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/ls.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/mkdir.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/mv.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/read.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/rm.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/stat.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/touch.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core-utils/dist/src/files/format-mtime.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/files/write.d.ts": [
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/get.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/id.d.ts": [
+        "../../../node_modules/multiaddr/src/index.d.ts",
+        "../../../node_modules/peer-id/src/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/index.d.ts": [
+        "../../../node_modules/bignumber.js/bignumber.d.ts",
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../../node_modules/multiaddr/src/index.d.ts",
+        "../../../node_modules/peer-id/src/index.d.ts",
+        "../../ipfs-core-utils/dist/src/files/normalise-input/normalise-input.d.ts",
+        "../../ipfs-core-utils/dist/src/pins/normalise-input.d.ts",
+        "../../ipfs-core/dist/src/api-manager.d.ts",
+        "../../ipfs-core/dist/src/components/add-all/index.d.ts",
+        "../../ipfs-core/dist/src/components/add.d.ts",
+        "../../ipfs-core/dist/src/components/bitswap/stat.d.ts",
+        "../../ipfs-core/dist/src/components/bitswap/unwant.d.ts",
+        "../../ipfs-core/dist/src/components/bitswap/wantlist.d.ts",
+        "../../ipfs-core/dist/src/components/block/get.d.ts",
+        "../../ipfs-core/dist/src/components/block/put.d.ts",
+        "../../ipfs-core/dist/src/components/block/rm.d.ts",
+        "../../ipfs-core/dist/src/components/block/stat.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/add.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/list.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/rm.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/utils.d.ts",
+        "../../ipfs-core/dist/src/components/cat.d.ts",
+        "../../ipfs-core/dist/src/components/config.d.ts",
+        "../../ipfs-core/dist/src/components/dag/get.d.ts",
+        "../../ipfs-core/dist/src/components/dag/put.d.ts",
+        "../../ipfs-core/dist/src/components/dag/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/dag/tree.d.ts",
+        "../../ipfs-core/dist/src/components/dht.d.ts",
+        "../../ipfs-core/dist/src/components/dns.d.ts",
+        "../../ipfs-core/dist/src/components/files/chmod.d.ts",
+        "../../ipfs-core/dist/src/components/files/cp.d.ts",
+        "../../ipfs-core/dist/src/components/files/index.d.ts",
+        "../../ipfs-core/dist/src/components/files/ls.d.ts",
+        "../../ipfs-core/dist/src/components/files/mkdir.d.ts",
+        "../../ipfs-core/dist/src/components/files/mv.d.ts",
+        "../../ipfs-core/dist/src/components/files/read.d.ts",
+        "../../ipfs-core/dist/src/components/files/rm.d.ts",
+        "../../ipfs-core/dist/src/components/files/stat.d.ts",
+        "../../ipfs-core/dist/src/components/files/touch.d.ts",
+        "../../ipfs-core/dist/src/components/files/write.d.ts",
+        "../../ipfs-core/dist/src/components/get.d.ts",
+        "../../ipfs-core/dist/src/components/id.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/init.d.ts",
+        "../../ipfs-core/dist/src/components/key/export.d.ts",
+        "../../ipfs-core/dist/src/components/key/gen.d.ts",
+        "../../ipfs-core/dist/src/components/key/import.d.ts",
+        "../../ipfs-core/dist/src/components/key/info.d.ts",
+        "../../ipfs-core/dist/src/components/key/list.d.ts",
+        "../../ipfs-core/dist/src/components/key/rename.d.ts",
+        "../../ipfs-core/dist/src/components/key/rm.d.ts",
+        "../../ipfs-core/dist/src/components/ls.d.ts",
+        "../../ipfs-core/dist/src/components/name/publish.d.ts",
+        "../../ipfs-core/dist/src/components/name/pubsub/cancel.d.ts",
+        "../../ipfs-core/dist/src/components/name/pubsub/state.d.ts",
+        "../../ipfs-core/dist/src/components/name/pubsub/subs.d.ts",
+        "../../ipfs-core/dist/src/components/name/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/object/data.d.ts",
+        "../../ipfs-core/dist/src/components/object/get.d.ts",
+        "../../ipfs-core/dist/src/components/object/links.d.ts",
+        "../../ipfs-core/dist/src/components/object/new.d.ts",
+        "../../ipfs-core/dist/src/components/object/patch/add-link.d.ts",
+        "../../ipfs-core/dist/src/components/object/patch/append-data.d.ts",
+        "../../ipfs-core/dist/src/components/object/patch/rm-link.d.ts",
+        "../../ipfs-core/dist/src/components/object/patch/set-data.d.ts",
+        "../../ipfs-core/dist/src/components/object/put.d.ts",
+        "../../ipfs-core/dist/src/components/object/stat.d.ts",
+        "../../ipfs-core/dist/src/components/pin/add-all.d.ts",
+        "../../ipfs-core/dist/src/components/pin/add.d.ts",
+        "../../ipfs-core/dist/src/components/pin/ls.d.ts",
+        "../../ipfs-core/dist/src/components/pin/pin-manager.d.ts",
+        "../../ipfs-core/dist/src/components/pin/rm.d.ts",
+        "../../ipfs-core/dist/src/components/ping.d.ts",
+        "../../ipfs-core/dist/src/components/repo/gc.d.ts",
+        "../../ipfs-core/dist/src/components/repo/stat.d.ts",
+        "../../ipfs-core/dist/src/components/repo/version.d.ts",
+        "../../ipfs-core/dist/src/components/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/stats/bw.d.ts",
+        "../../ipfs-core/dist/src/components/swarm/addrs.d.ts",
+        "../../ipfs-core/dist/src/components/swarm/connect.d.ts",
+        "../../ipfs-core/dist/src/components/swarm/disconnect.d.ts",
+        "../../ipfs-core/dist/src/components/swarm/local-addrs.d.ts",
+        "../../ipfs-core/dist/src/components/swarm/peers.d.ts",
+        "../../ipfs-core/dist/src/components/version.d.ts",
+        "../../ipfs-core/dist/src/ipns/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/init.d.ts": [
+        "../../../node_modules/bignumber.js/bignumber.d.ts",
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../../node_modules/multiaddr/src/index.d.ts",
+        "../../../node_modules/peer-id/src/index.d.ts",
+        "../../ipfs-core-utils/dist/src/files/normalise-input/normalise-input.d.ts",
+        "../../ipfs-core/dist/src/api-manager.d.ts",
+        "../../ipfs-core/dist/src/components/add-all/index.d.ts",
+        "../../ipfs-core/dist/src/components/add.d.ts",
+        "../../ipfs-core/dist/src/components/bitswap/stat.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/utils.d.ts",
+        "../../ipfs-core/dist/src/components/cat.d.ts",
+        "../../ipfs-core/dist/src/components/config.d.ts",
+        "../../ipfs-core/dist/src/components/dht.d.ts",
+        "../../ipfs-core/dist/src/components/dns.d.ts",
+        "../../ipfs-core/dist/src/components/files/index.d.ts",
+        "../../ipfs-core/dist/src/components/get.d.ts",
+        "../../ipfs-core/dist/src/components/id.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/ls.d.ts",
+        "../../ipfs-core/dist/src/components/name/publish.d.ts",
+        "../../ipfs-core/dist/src/components/name/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/ping.d.ts",
+        "../../ipfs-core/dist/src/components/repo/gc.d.ts",
+        "../../ipfs-core/dist/src/components/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/version.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/ls.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/name/publish.d.ts": [
+        "../../../node_modules/peer-id/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/init.d.ts",
+        "../../ipfs-core/dist/src/ipns/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/name/pubsub/cancel.d.ts": [
+        "../../ipfs-core/dist/src/components/init.d.ts",
+        "../../ipfs-core/dist/src/ipns/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/name/pubsub/state.d.ts": [
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/name/pubsub/subs.d.ts": [
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/name/resolve.d.ts": [
+        "../../../node_modules/peer-id/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/ipns/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/pin/add-all.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core-utils/dist/src/pins/normalise-input.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/pin/pin-manager.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/pin/add.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/pin/add-all.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/pin/ls.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/pin/pin-manager.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/pin/pin-manager.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/pin/rm-all.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core-utils/dist/src/pins/normalise-input.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/pin/pin-manager.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/pin/rm.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/pin/rm-all.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/ping.d.ts": [
+        "../../../node_modules/peer-id/src/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/repo/gc.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/resolve.d.ts": [
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/stats/bw.d.ts": [
+        "../../../node_modules/bignumber.js/bignumber.d.ts"
+      ],
+      "../../ipfs-core/dist/src/components/version.d.ts": [
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/index.d.ts": [
+        "../../../node_modules/bignumber.js/bignumber.d.ts",
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../../node_modules/libp2p-crypto/src/index.d.ts",
+        "../../../node_modules/multiaddr/src/index.d.ts",
+        "../../../node_modules/peer-id/src/index.d.ts",
+        "../../ipfs-core-utils/dist/src/files/normalise-input/normalise-input.d.ts",
+        "../../ipfs-core/dist/src/components/add-all/index.d.ts",
+        "../../ipfs-core/dist/src/components/add.d.ts",
+        "../../ipfs-core/dist/src/components/bitswap/stat.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/utils.d.ts",
+        "../../ipfs-core/dist/src/components/cat.d.ts",
+        "../../ipfs-core/dist/src/components/config.d.ts",
+        "../../ipfs-core/dist/src/components/dht.d.ts",
+        "../../ipfs-core/dist/src/components/dns.d.ts",
+        "../../ipfs-core/dist/src/components/files/index.d.ts",
+        "../../ipfs-core/dist/src/components/get.d.ts",
+        "../../ipfs-core/dist/src/components/id.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts",
+        "../../ipfs-core/dist/src/components/init.d.ts",
+        "../../ipfs-core/dist/src/components/ls.d.ts",
+        "../../ipfs-core/dist/src/components/name/publish.d.ts",
+        "../../ipfs-core/dist/src/components/name/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/ping.d.ts",
+        "../../ipfs-core/dist/src/components/repo/gc.d.ts",
+        "../../ipfs-core/dist/src/components/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/version.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts"
+      ],
+      "../../ipfs-core/dist/src/ipns/index.d.ts": [
+        "../../ipfs-core/dist/src/ipns/publisher.d.ts",
+        "../../ipfs-core/dist/src/ipns/republisher.d.ts",
+        "../../ipfs-core/dist/src/ipns/resolver.d.ts",
+        "../../ipfs-core/dist/src/utils/tlru.d.ts"
+      ],
+      "../../ipfs-core/dist/src/utils.d.ts": [
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../ipfs-core/dist/src/components/index.d.ts"
+      ],
+      "../../ipfs-http-client/dist/src/index.d.ts": [
+        "../../../node_modules/bignumber.js/bignumber.d.ts",
+        "../../../node_modules/cids/src/index.d.ts",
+        "../../../node_modules/multiaddr/src/index.d.ts",
+        "../../../node_modules/peer-id/src/index.d.ts",
+        "../../ipfs-core-utils/dist/src/files/normalise-input/normalise-input.d.ts",
+        "../../ipfs-core/dist/src/components/add-all/index.d.ts",
+        "../../ipfs-core/dist/src/components/add.d.ts",
+        "../../ipfs-core/dist/src/components/bitswap/stat.d.ts",
+        "../../ipfs-core/dist/src/components/block/get.d.ts",
+        "../../ipfs-core/dist/src/components/block/put.d.ts",
+        "../../ipfs-core/dist/src/components/block/rm.d.ts",
+        "../../ipfs-core/dist/src/components/block/stat.d.ts",
+        "../../ipfs-core/dist/src/components/bootstrap/utils.d.ts",
+        "../../ipfs-core/dist/src/components/cat.d.ts",
+        "../../ipfs-core/dist/src/components/config.d.ts",
+        "../../ipfs-core/dist/src/components/dag/get.d.ts",
+        "../../ipfs-core/dist/src/components/dag/put.d.ts",
+        "../../ipfs-core/dist/src/components/dag/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/dht.d.ts",
+        "../../ipfs-core/dist/src/components/dns.d.ts",
+        "../../ipfs-core/dist/src/components/files/chmod.d.ts",
+        "../../ipfs-core/dist/src/components/files/cp.d.ts",
+        "../../ipfs-core/dist/src/components/files/ls.d.ts",
+        "../../ipfs-core/dist/src/components/files/mkdir.d.ts",
+        "../../ipfs-core/dist/src/components/files/mv.d.ts",
+        "../../ipfs-core/dist/src/components/files/read.d.ts",
+        "../../ipfs-core/dist/src/components/files/rm.d.ts",
+        "../../ipfs-core/dist/src/components/files/stat.d.ts",
+        "../../ipfs-core/dist/src/components/files/touch.d.ts",
+        "../../ipfs-core/dist/src/components/files/write.d.ts",
+        "../../ipfs-core/dist/src/components/get.d.ts",
+        "../../ipfs-core/dist/src/components/id.d.ts",
+        "../../ipfs-core/dist/src/components/resolve.d.ts",
+        "../../ipfs-core/dist/src/components/version.d.ts",
+        "../../ipfs-core/dist/src/utils.d.ts",
+        "../../ipfs-http-client/dist/src/interface.d.ts",
+        "../../ipfs-http-client/dist/src/lib/core.d.ts"
+      ],
+      "../../ipfs-http-client/dist/src/lib/core.d.ts": [
+        "../../../node_modules/multiaddr/src/index.d.ts"
+      ],
+      "../src/index.js": [
+        "../../ipfs-core/dist/src/index.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../../../node_modules/@types/bl/index.d.ts",
+      "../../../node_modules/@types/debug/index.d.ts",
+      "../../../node_modules/@types/glob/index.d.ts",
+      "../../../node_modules/@types/it-all/index.d.ts",
+      "../../../node_modules/@types/json-schema/index.d.ts",
+      "../../../node_modules/@types/json5/index.d.ts",
+      "../../../node_modules/@types/long/index.d.ts",
+      "../../../node_modules/@types/minimatch/index.d.ts",
+      "../../../node_modules/@types/minimist/index.d.ts",
+      "../../../node_modules/@types/node/assert.d.ts",
+      "../../../node_modules/@types/node/async_hooks.d.ts",
+      "../../../node_modules/@types/node/base.d.ts",
+      "../../../node_modules/@types/node/buffer.d.ts",
+      "../../../node_modules/@types/node/child_process.d.ts",
+      "../../../node_modules/@types/node/cluster.d.ts",
+      "../../../node_modules/@types/node/console.d.ts",
+      "../../../node_modules/@types/node/constants.d.ts",
+      "../../../node_modules/@types/node/crypto.d.ts",
+      "../../../node_modules/@types/node/dgram.d.ts",
+      "../../../node_modules/@types/node/dns.d.ts",
+      "../../../node_modules/@types/node/domain.d.ts",
+      "../../../node_modules/@types/node/events.d.ts",
+      "../../../node_modules/@types/node/fs.d.ts",
+      "../../../node_modules/@types/node/fs/promises.d.ts",
+      "../../../node_modules/@types/node/globals.d.ts",
+      "../../../node_modules/@types/node/globals.global.d.ts",
+      "../../../node_modules/@types/node/http.d.ts",
+      "../../../node_modules/@types/node/http2.d.ts",
+      "../../../node_modules/@types/node/https.d.ts",
+      "../../../node_modules/@types/node/index.d.ts",
+      "../../../node_modules/@types/node/inspector.d.ts",
+      "../../../node_modules/@types/node/module.d.ts",
+      "../../../node_modules/@types/node/net.d.ts",
+      "../../../node_modules/@types/node/os.d.ts",
+      "../../../node_modules/@types/node/path.d.ts",
+      "../../../node_modules/@types/node/perf_hooks.d.ts",
+      "../../../node_modules/@types/node/process.d.ts",
+      "../../../node_modules/@types/node/punycode.d.ts",
+      "../../../node_modules/@types/node/querystring.d.ts",
+      "../../../node_modules/@types/node/readline.d.ts",
+      "../../../node_modules/@types/node/repl.d.ts",
+      "../../../node_modules/@types/node/stream.d.ts",
+      "../../../node_modules/@types/node/string_decoder.d.ts",
+      "../../../node_modules/@types/node/timers.d.ts",
+      "../../../node_modules/@types/node/tls.d.ts",
+      "../../../node_modules/@types/node/trace_events.d.ts",
+      "../../../node_modules/@types/node/ts3.4/base.d.ts",
+      "../../../node_modules/@types/node/ts3.6/base.d.ts",
+      "../../../node_modules/@types/node/tty.d.ts",
+      "../../../node_modules/@types/node/url.d.ts",
+      "../../../node_modules/@types/node/util.d.ts",
+      "../../../node_modules/@types/node/v8.d.ts",
+      "../../../node_modules/@types/node/vm.d.ts",
+      "../../../node_modules/@types/node/wasi.d.ts",
+      "../../../node_modules/@types/node/worker_threads.d.ts",
+      "../../../node_modules/@types/node/zlib.d.ts",
+      "../../../node_modules/@types/normalize-package-data/index.d.ts",
+      "../../../node_modules/@types/parse-json/index.d.ts",
+      "../../../node_modules/@types/readable-stream/index.d.ts",
+      "../../../node_modules/@types/retry/index.d.ts",
+      "../../../node_modules/@types/unist/index.d.ts",
+      "../../../node_modules/@types/yargs-parser/index.d.ts",
+      "../../../node_modules/@types/yargs/index.d.ts",
+      "../../../node_modules/@types/yauzl/index.d.ts",
+      "../../../node_modules/bignumber.js/bignumber.d.ts",
+      "../../../node_modules/cids/src/index.d.ts",
+      "../../../node_modules/libp2p-crypto/src/index.d.ts",
+      "../../../node_modules/multiaddr/src/index.d.ts",
+      "../../../node_modules/peer-id/src/index.d.ts",
+      "../../../node_modules/safe-buffer/index.d.ts",
+      "../../../node_modules/typescript/lib/lib.dom.d.ts",
+      "../../../node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2015.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2016.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2017.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2018.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2018.full.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "../../../node_modules/typescript/lib/lib.es2020.bigint.d.ts",
+      "../../../node_modules/typescript/lib/lib.es5.d.ts",
+      "../../../node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "../../../node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../../../node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "../../ipfs-cli/dist/src/index.d.ts",
+      "../../ipfs-cli/dist/src/utils.d.ts",
+      "../../ipfs-core-utils/dist/src/files/format-mtime.d.ts",
+      "../../ipfs-core-utils/dist/src/files/normalise-input/normalise-input.d.ts",
+      "../../ipfs-core-utils/dist/src/pins/normalise-input.d.ts",
+      "../../ipfs-core/dist/src/api-manager.d.ts",
+      "../../ipfs-core/dist/src/components/add-all/index.d.ts",
+      "../../ipfs-core/dist/src/components/add.d.ts",
+      "../../ipfs-core/dist/src/components/bitswap/stat.d.ts",
+      "../../ipfs-core/dist/src/components/bitswap/unwant.d.ts",
+      "../../ipfs-core/dist/src/components/bitswap/wantlist.d.ts",
+      "../../ipfs-core/dist/src/components/block/get.d.ts",
+      "../../ipfs-core/dist/src/components/block/put.d.ts",
+      "../../ipfs-core/dist/src/components/block/rm.d.ts",
+      "../../ipfs-core/dist/src/components/block/stat.d.ts",
+      "../../ipfs-core/dist/src/components/bootstrap/add.d.ts",
+      "../../ipfs-core/dist/src/components/bootstrap/list.d.ts",
+      "../../ipfs-core/dist/src/components/bootstrap/rm.d.ts",
+      "../../ipfs-core/dist/src/components/bootstrap/utils.d.ts",
+      "../../ipfs-core/dist/src/components/cat.d.ts",
+      "../../ipfs-core/dist/src/components/config.d.ts",
+      "../../ipfs-core/dist/src/components/dag/get.d.ts",
+      "../../ipfs-core/dist/src/components/dag/put.d.ts",
+      "../../ipfs-core/dist/src/components/dag/resolve.d.ts",
+      "../../ipfs-core/dist/src/components/dag/tree.d.ts",
+      "../../ipfs-core/dist/src/components/dht.d.ts",
+      "../../ipfs-core/dist/src/components/dns.d.ts",
+      "../../ipfs-core/dist/src/components/files/chmod.d.ts",
+      "../../ipfs-core/dist/src/components/files/cp.d.ts",
+      "../../ipfs-core/dist/src/components/files/flush.d.ts",
+      "../../ipfs-core/dist/src/components/files/index.d.ts",
+      "../../ipfs-core/dist/src/components/files/ls.d.ts",
+      "../../ipfs-core/dist/src/components/files/mkdir.d.ts",
+      "../../ipfs-core/dist/src/components/files/mv.d.ts",
+      "../../ipfs-core/dist/src/components/files/read.d.ts",
+      "../../ipfs-core/dist/src/components/files/rm.d.ts",
+      "../../ipfs-core/dist/src/components/files/stat.d.ts",
+      "../../ipfs-core/dist/src/components/files/touch.d.ts",
+      "../../ipfs-core/dist/src/components/files/write.d.ts",
+      "../../ipfs-core/dist/src/components/get.d.ts",
+      "../../ipfs-core/dist/src/components/id.d.ts",
+      "../../ipfs-core/dist/src/components/index.d.ts",
+      "../../ipfs-core/dist/src/components/init.d.ts",
+      "../../ipfs-core/dist/src/components/key/export.d.ts",
+      "../../ipfs-core/dist/src/components/key/gen.d.ts",
+      "../../ipfs-core/dist/src/components/key/import.d.ts",
+      "../../ipfs-core/dist/src/components/key/info.d.ts",
+      "../../ipfs-core/dist/src/components/key/list.d.ts",
+      "../../ipfs-core/dist/src/components/key/rename.d.ts",
+      "../../ipfs-core/dist/src/components/key/rm.d.ts",
+      "../../ipfs-core/dist/src/components/ls.d.ts",
+      "../../ipfs-core/dist/src/components/name/publish.d.ts",
+      "../../ipfs-core/dist/src/components/name/pubsub/cancel.d.ts",
+      "../../ipfs-core/dist/src/components/name/pubsub/state.d.ts",
+      "../../ipfs-core/dist/src/components/name/pubsub/subs.d.ts",
+      "../../ipfs-core/dist/src/components/name/resolve.d.ts",
+      "../../ipfs-core/dist/src/components/object/data.d.ts",
+      "../../ipfs-core/dist/src/components/object/get.d.ts",
+      "../../ipfs-core/dist/src/components/object/links.d.ts",
+      "../../ipfs-core/dist/src/components/object/new.d.ts",
+      "../../ipfs-core/dist/src/components/object/patch/add-link.d.ts",
+      "../../ipfs-core/dist/src/components/object/patch/append-data.d.ts",
+      "../../ipfs-core/dist/src/components/object/patch/rm-link.d.ts",
+      "../../ipfs-core/dist/src/components/object/patch/set-data.d.ts",
+      "../../ipfs-core/dist/src/components/object/put.d.ts",
+      "../../ipfs-core/dist/src/components/object/stat.d.ts",
+      "../../ipfs-core/dist/src/components/pin/add-all.d.ts",
+      "../../ipfs-core/dist/src/components/pin/add.d.ts",
+      "../../ipfs-core/dist/src/components/pin/ls.d.ts",
+      "../../ipfs-core/dist/src/components/pin/pin-manager.d.ts",
+      "../../ipfs-core/dist/src/components/pin/rm-all.d.ts",
+      "../../ipfs-core/dist/src/components/pin/rm.d.ts",
+      "../../ipfs-core/dist/src/components/ping.d.ts",
+      "../../ipfs-core/dist/src/components/repo/gc.d.ts",
+      "../../ipfs-core/dist/src/components/repo/stat.d.ts",
+      "../../ipfs-core/dist/src/components/repo/version.d.ts",
+      "../../ipfs-core/dist/src/components/resolve.d.ts",
+      "../../ipfs-core/dist/src/components/stats/bw.d.ts",
+      "../../ipfs-core/dist/src/components/swarm/addrs.d.ts",
+      "../../ipfs-core/dist/src/components/swarm/connect.d.ts",
+      "../../ipfs-core/dist/src/components/swarm/disconnect.d.ts",
+      "../../ipfs-core/dist/src/components/swarm/local-addrs.d.ts",
+      "../../ipfs-core/dist/src/components/swarm/peers.d.ts",
+      "../../ipfs-core/dist/src/components/version.d.ts",
+      "../../ipfs-core/dist/src/errors.d.ts",
+      "../../ipfs-core/dist/src/index.d.ts",
+      "../../ipfs-core/dist/src/ipns/index.d.ts",
+      "../../ipfs-core/dist/src/ipns/publisher.d.ts",
+      "../../ipfs-core/dist/src/ipns/republisher.d.ts",
+      "../../ipfs-core/dist/src/ipns/resolver.d.ts",
+      "../../ipfs-core/dist/src/utils.d.ts",
+      "../../ipfs-core/dist/src/utils/tlru.d.ts",
+      "../../ipfs-http-client/dist/src/index.d.ts",
+      "../../ipfs-http-client/dist/src/interface.d.ts",
+      "../../ipfs-http-client/dist/src/lib/core.d.ts",
+      "../package.json",
+      "../src/cli.js",
+      "../src/index.js"
+    ]
+  },
+  "version": "4.0.5"
+}
