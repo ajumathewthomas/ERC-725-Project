@@ -15,8 +15,8 @@ import "./ERC725Y.sol";
     contract ERC725 is ERC725X,ERC725Y{
     address founder;
     mapping(string => identity) identity_id;
-    mapping(string => bool) emailId;
-    mapping(uint256 => bool) contactNum;
+    mapping(string => bool) public emailId;
+    mapping(uint256 => bool) public contactNum;
     
     struct identity {
         
